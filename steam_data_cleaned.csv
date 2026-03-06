@@ -1,0 +1,1108 @@
+,steamid,appid,name,playtime_forever,genres,release_date,price,metacritic,release_year
+0,76561197987101906,220,Half-Life 2,51,['Action'],"Nov 16, 2004",9.99,96.0,2004.0
+1,76561197987101906,240,Counter-Strike: Source,13744,['Action'],"Nov 1, 2004",9.99,88.0,2004.0
+2,76561197987101906,300,Day of Defeat: Source,129,['Action'],"Jul 12, 2010",9.99,80.0,2010.0
+3,76561197987101906,320,Half-Life 2: Deathmatch,0,['Action'],"1 Nov, 2004",9.99,92.0,2004.0
+4,76561197987101906,360,Half-Life Deathmatch: Source,0,['Action'],"1 May, 2006",32.99,91.5,2006.0
+5,76561197987101906,400,Portal,1244,['Action'],"Oct 10, 2007",9.99,90.0,2007.0
+6,76561197987101906,440,Team Fortress 2,1078,"['Action', 'Free To Play']","Oct 10, 2007",9.99,92.0,2007.0
+7,76561197987101906,500,Left 4 Dead,1905,['Action'],"Nov 17, 2008",9.99,89.0,2008.0
+8,76561197987101906,550,Left 4 Dead 2,1203,['Action'],"16 Nov, 2009",5.79,89.0,2009.0
+9,76561197987101906,570,Dota 2,709,"['Action', 'Strategy', 'Free To Play']","Jul 9, 2013",14.99,90.0,2013.0
+10,76561197987101906,620,Portal 2,160,"['Action', 'Adventure']","Apr 18, 2011",9.99,95.0,2011.0
+11,76561197987101906,730,Counter-Strike 2,189671,"['Action', 'Free To Play']","Aug 21, 2012",14.99,81.0,2012.0
+12,76561197987101906,2280,DOOM + DOOM II,0,['Action'],"Aug 3, 2007",9.99,88.5,2007.0
+13,76561197987101906,2700,RollerCoaster Tycoon 3: Platinum!,140,"['Simulation', 'Strategy']","Mar 12, 2008",9.99,81.0,2008.0
+14,76561197987101906,3700,Sniper Elite,0,['Action'],"Jul 16, 2009",7.99,76.0,2009.0
+15,76561197987101906,3900,Sid Meier's Civilization IV,545,['Strategy'],"Oct 25, 2006",19.99,94.0,2006.0
+16,76561197987101906,3910,Sid Meier's Civilization III: Complete,0,['Strategy'],"Oct 25, 2006",4.99,90.0,2006.0
+17,76561197987101906,4000,Garry's Mod,48,"['Casual', 'Indie', 'Simulation']","Nov 29, 2006",9.99,91.5,2006.0
+18,76561197987101906,4560,Company of Heroes - Legacy Edition,66,"['Action', 'Strategy']","Jul 17, 2007",36.99,93.0,2007.0
+19,76561197987101906,4920,Natural Selection 2,1071,"['Action', 'Indie', 'Strategy']","Oct 30, 2012",4.99,80.0,2012.0
+20,76561197987101906,6020,STAR WARS™ Jedi Knight: Jedi Academy™,0,['Action'],"Sep 16, 2009",9.99,81.0,2009.0
+21,76561197987101906,6060,"Star Wars: Battlefront 2 (Classic, 2005)",51,['Action'],"Jul 8, 2009",9.99,78.0,2009.0
+22,76561197987101906,6840,Commandos 3: Destination Berlin,16,['Action'],"Mar 15, 2007",4.99,72.0,2007.0
+23,76561197987101906,6880,Just Cause,0,['Action'],"Mar 15, 2007",0.97,75.0,2007.0
+24,76561197987101906,7670,BioShock,45,"['Action', 'RPG']","Aug 21, 2007",19.99,96.0,2007.0
+25,76561197987101906,8190,Just Cause 2,79,"['Action', 'Adventure']","Mar 23, 2010",1.49,84.0,2010.0
+26,76561197987101906,8850,BioShock 2,0,['Action'],"Feb 9, 2010",19.99,88.0,2010.0
+27,76561197987101906,8870,BioShock Infinite,1552,['Action'],"Mar 25, 2013",29.99,94.0,2013.0
+28,76561197987101906,8930,Sid Meier's Civilization V,1316,['Strategy'],"Sep 21, 2010",29.99,90.0,2010.0
+29,76561197987101906,8980,Borderlands GOTY,1869,"['Action', 'RPG']","Aug 31, 2023",29.99,81.0,2023.0
+30,76561197987101906,9050,DOOM 3,0,['Action'],"Aug 3, 2007",9.99,87.0,2007.0
+31,76561197987101906,9070,DOOM 3: Resurrection of Evil,0,['Action'],"Aug 3, 2007",9.99,78.0,2007.0
+32,76561197987101906,9340,Company of Heroes: Opposing Fronts,45,"['Action', 'Strategy']","Sep 24, 2007",19.99,87.0,2007.0
+33,76561197987101906,9350,Supreme Commander,0,['Strategy'],"Sep 28, 2011",2.59,86.0,2011.0
+34,76561197987101906,9420,Supreme Commander: Forged Alliance,2,['Strategy'],"Sep 28, 2011",2.59,81.0,2011.0
+35,76561197987101906,9480,Saints Row 2,0,['Action'],"Jan 7, 2009",9.99,72.0,2009.0
+36,76561197987101906,10090,Call of Duty: World at War,117,['Action'],"Nov 18, 2008",19.99,83.0,2008.0
+37,76561197987101906,10180,Call of Duty: Modern Warfare 2 (2009),0,['Action'],"11 Nov, 2009",9.99,86.0,2009.0
+38,76561197987101906,10190,Call of Duty: Modern Warfare 2 (2009) - Multiplayer,328,['Action'],"Nov 11, 2009",19.99,86.0,2009.0
+39,76561197987101906,12100,Grand Theft Auto III,114,['Action'],"Jan 4, 2008",9.99,93.0,2008.0
+40,76561197987101906,12110,Grand Theft Auto: Vice City,30,['Action'],"Jan 4, 2008",9.99,94.0,2008.0
+41,76561197987101906,12120,Grand Theft Auto: San Andreas,195,['Action'],"Jan 4, 2008",9.99,93.0,2008.0
+42,76561197987101906,12150,Max Payne 2: The Fall of Max Payne,59,['Action'],"Jan 4, 2008",2.49,86.0,2008.0
+43,76561197987101906,12210,Grand Theft Auto IV: The Complete Edition,1808,"['Action', 'Adventure']","Mar 24, 2020",5.99,90.0,2020.0
+44,76561197987101906,12230,Grand Theft Auto III,0,['Action'],"Jan 4, 2008",9.99,93.0,2008.0
+45,76561197987101906,12240,Grand Theft Auto: Vice City,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+46,76561197987101906,12250,Grand Theft Auto: San Andreas,0,['Action'],"Jan 4, 2008",9.99,93.0,2008.0
+47,76561197987101906,12900,Audiosurf,1417,['Indie'],"Feb 15, 2008",9.99,85.0,2008.0
+48,76561197987101906,13200,Unreal II: The Awakening,0,['Action'],"Mar 17, 2008",9.99,75.0,2008.0
+49,76561197987101906,13210,Unreal Tournament 3: Black Edition,347,['Action'],"Mar 5, 2009",9.99,83.0,2009.0
+50,76561197987101906,13230,Unreal Tournament 2004,38,['Action'],"Mar 17, 2008",9.99,93.0,2008.0
+51,76561197987101906,13240,Unreal Tournament: Game of the Year Edition,0,['Action'],"Mar 17, 2008",9.99,92.0,2008.0
+52,76561197987101906,13250,Unreal Gold,0,['Action'],"Mar 17, 2008",9.99,86.0,2008.0
+53,76561197987101906,15100,Assassin's Creed,550,"['Action', 'Adventure']","9 Apr, 2008",9.99,79.0,2008.0
+54,76561197987101906,15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",5,['Strategy'],"Feb 18, 2009",49.99,85.0,2009.0
+55,76561197987101906,15700,Oddworld: Abe's Oddysee,0,['Adventure'],"Aug 28, 2008",2.99,86.0,2008.0
+56,76561197987101906,16730,Legendary,0,['Action'],"Dec 1, 2008",5.99,50.0,2008.0
+57,76561197987101906,17080,Tribes: Ascend,46,"['Action', 'Free To Play']","Jun 27, 2012",14.99,86.0,2012.0
+58,76561197987101906,17480,Command & Conquer™ Red Alert™ 3,677,"['Action', 'Strategy']","Jan 8, 2009",9.99,82.0,2009.0
+59,76561197987101906,20530,Red Faction,0,['Action'],"Aug 5, 2009",9.99,78.0,2009.0
+60,76561197987101906,20540,Company of Heroes: Tales of Valor,508,['Strategy'],"Apr 8, 2009",19.99,70.0,2009.0
+61,76561197987101906,20550,Red Faction II,0,"['Action', 'Strategy']","Aug 6, 2009",9.99,64.0,2009.0
+62,76561197987101906,20570,"Warhammer 40,000: Dawn of War II - Chaos Rising",13,['Strategy'],"Mar 11, 2010",14.99,84.0,2010.0
+63,76561197987101906,20900,The Witcher: Enhanced Edition,25,"['Action', 'RPG']","Sep 19, 2008",9.99,86.0,2008.0
+64,76561197987101906,20920,The Witcher 2: Assassins of Kings Enhanced Edition,1167,['RPG'],"Apr 16, 2012",19.99,88.0,2012.0
+65,76561197987101906,21690,Resident Evil 5,467,"['Action', 'Adventure']","Sep 15, 2009",19.99,86.0,2009.0
+66,76561197987101906,22320,The Elder Scrolls III: Morrowind,76,['RPG'],"Jun 16, 2009",14.99,89.0,2009.0
+67,76561197987101906,22330,The Elder Scrolls IV: Oblivion Game of the Year Edition (2009),48,['RPG'],"Jun 16, 2009",14.99,94.0,2009.0
+68,76561197987101906,22370,Fallout 3 - Game of the Year Edition,1256,['RPG'],"Dec 17, 2009",4.99,91.0,2009.0
+69,76561197987101906,22380,Fallout: New Vegas,2553,"['Action', 'RPG']","Oct 19, 2010",2.49,84.0,2010.0
+70,76561197987101906,24240,PAYDAY: The Heist,146,['Action'],"Oct 20, 2011",4.94,76.0,2011.0
+71,76561197987101906,24780,SimCity 4 Deluxe,291,"['Simulation', 'Strategy']","Jul 20, 2010",4.99,84.0,2010.0
+72,76561197987101906,24790,Command & Conquer 3: Tiberium Wars™,0,"['Action', 'Strategy']","Nov 13, 2009",9.99,85.0,2009.0
+73,76561197987101906,24800,Command & Conquer™ Red Alert™ 3 - Uprising,0,"['Action', 'Strategy', 'Free To Play']","Oct 6, 2009",9.99,64.0,2009.0
+74,76561197987101906,24810,Command & Conquer 3: Kane's Wrath™,0,"['Action', 'Strategy']","Nov 13, 2009",9.99,77.0,2009.0
+75,76561197987101906,24960,Battlefield: Bad Company™ 2,76,['Action'],"Mar 2, 2010",14.99,87.0,2010.0
+76,76561197987101906,33930,Arma 2: Operation Arrowhead,1511,"['Action', 'Simulation', 'Strategy']","Jun 29, 2010",19.99,73.0,2010.0
+77,76561197987101906,34270,SEGA Mega Drive & Genesis Classics,1,"['Action', 'Adventure', 'Casual', 'RPG']","Jun 1, 2010",14.99,84.0,2010.0
+78,76561197987101906,34330,Total War: SHOGUN 2,0,['Strategy'],"Mar 15, 2011",29.99,90.0,2011.0
+79,76561197987101906,34440,Sid Meier's Civilization IV,0,['Strategy'],"Oct 25, 2006",19.99,94.0,2006.0
+80,76561197987101906,35450,Rising Storm/Red Orchestra 2 Multiplayer,913,"['Action', 'Massively Multiplayer', 'Simulation']","Sep 13, 2011",19.99,76.0,2011.0
+81,76561197987101906,38400,Fallout,0,['RPG'],"Nov 1, 2015",2.49,89.0,2015.0
+82,76561197987101906,39120,RIFT,103,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']","Mar 1, 2011",9.99,84.0,2011.0
+83,76561197987101906,39140,FINAL FANTASY VII,618,['RPG'],"Jul 4, 2013",4.79,79.0,2013.0
+84,76561197987101906,40800,Super Meat Boy,1324,['Indie'],"Nov 30, 2010",14.99,87.0,2010.0
+85,76561197987101906,41700,S.T.A.L.K.E.R.: Call of Pripyat,0,"['Action', 'RPG']","Feb 11, 2010",19.99,80.0,2010.0
+86,76561197987101906,43110,Metro 2033,126,['Action'],"Mar 16, 2010",14.99,81.0,2010.0
+87,76561197987101906,45740,Dead Rising 2,0,"['Action', 'Adventure']","Sep 27, 2010",19.99,78.0,2010.0
+88,76561197987101906,45760,Ultra Street Fighter IV,346,['Action'],"Aug 7, 2014",29.99,82.0,2014.0
+89,76561197987101906,45770,Dead Rising 2: Off the Record,275,"['Action', 'Adventure']","Oct 11, 2011",19.99,66.0,2011.0
+90,76561197987101906,47700,Command & Conquer™ 4 Tiberian Twilight,0,"['Adventure', 'Strategy']","Mar 16, 2010",14.99,64.0,2010.0
+91,76561197987101906,47780,Dead Space 2,261,"['Action', 'Adventure']","27 Jan, 2011",9.99,87.0,2011.0
+92,76561197987101906,47890,The Sims™ 3,114,['Simulation'],"Jan 27, 2011",19.99,86.0,2011.0
+93,76561197987101906,48950,Greed Corp,38,['Strategy'],"Dec 10, 2010",2.49,76.0,2010.0
+94,76561197987101906,49520,Borderlands 2,9794,"['Action', 'RPG']","Sep 17, 2012",19.99,89.0,2012.0
+95,76561197987101906,50620,Darksiders,0,"['Action', 'Adventure']","Sep 23, 2010",14.99,83.0,2010.0
+96,76561197987101906,55100,Homefront,0,['Action'],"Mar 14, 2011",19.99,70.0,2011.0
+97,76561197987101906,55110,Red Faction: Armageddon,0,['Action'],"Jun 6, 2011",19.99,75.0,2011.0
+98,76561197987101906,55140,MX vs. ATV Reflex,30,['Racing'],"Nov 26, 2010",4.99,84.0,2010.0
+99,76561197987101906,55150,"Warhammer 40,000: Space Marine - Anniversary Edition",0,['Action'],"Sep 5, 2011",39.99,74.0,2011.0
+100,76561197987101906,55230,Saints Row: The Third,1054,['Action'],"Nov 14, 2011",9.99,84.0,2011.0
+101,76561197987101906,57300,Amnesia: The Dark Descent,6,"['Action', 'Adventure', 'Indie']","Sep 8, 2010",19.99,85.0,2010.0
+102,76561197987101906,57690,Tropico 4,4725,"['Simulation', 'Strategy']","Sep 1, 2011",14.99,78.0,2011.0
+103,76561197987101906,63710,BIT.TRIP RUNNER,0,"['Action', 'Indie']","Feb 28, 2011",9.99,84.0,2011.0
+104,76561197987101906,65790,Arma: Cold War Assault,0,"['Action', 'Simulation', 'Strategy']","Aug 8, 2011",4.99,84.0,2011.0
+105,76561197987101906,65930,The Bureau: XCOM Declassified,0,['Action'],"Aug 19, 2013",19.99,66.0,2013.0
+106,76561197987101906,67370,The Darkness II,0,['Action'],"Feb 9, 2012",29.99,77.0,2012.0
+107,76561197987101906,72200,Universe Sandbox Legacy,88,"['Casual', 'Indie', 'Simulation']","Apr 29, 2011",9.99,83.0,2011.0
+108,76561197987101906,72850,The Elder Scrolls V: Skyrim,2880,['RPG'],"Nov 10, 2011",19.99,94.0,2011.0
+109,76561197987101906,96800,Nexuiz,0,['Action'],"May 10, 2012",9.99,54.0,2012.0
+110,76561197987101906,105450,Age of Empires® III (2007),524,"['Simulation', 'Strategy']","Jan 5, 2012",14.99,81.0,2012.0
+111,76561197987101906,105600,Terraria,6240,"['Action', 'Adventure', 'Indie', 'RPG']","May 16, 2011",9.99,83.0,2011.0
+112,76561197987101906,107100,Bastion,18,"['Action', 'Indie', 'RPG']","Aug 16, 2011",14.99,86.0,2011.0
+113,76561197987101906,107410,Arma 3,116,"['Action', 'Simulation', 'Strategy']","Sep 12, 2013",7.49,74.0,2013.0
+114,76561197987101906,108600,Project Zomboid,44,"['Indie', 'RPG', 'Simulation', 'Early Access']","8 Nov, 2013",59.99,79.0,2013.0
+115,76561197987101906,113200,The Binding of Isaac,215,"['Action', 'Adventure', 'Indie', 'RPG']","28 Sep, 2011",17.99,84.0,2011.0
+116,76561197987101906,113400,APB Reloaded,365,"['Action', 'Massively Multiplayer', 'Free To Play']","Dec 6, 2011",9.99,84.0,2011.0
+117,76561197987101906,115800,Owlboy,0,"['Action', 'Adventure', 'Indie']","Nov 1, 2016",19.99,88.0,2016.0
+118,76561197987101906,200170,Worms Revolution,50,['Strategy'],"Oct 10, 2012",14.99,73.0,2012.0
+119,76561197987101906,200260,Batman: Arkham City GOTY,254,"['Action', 'Adventure']","Sep 7, 2012",3.99,91.0,2012.0
+120,76561197987101906,200510,XCOM: Enemy Unknown,151,['Strategy'],"Oct 8, 2012",29.99,89.0,2012.0
+121,76561197987101906,200710,Torchlight II,1545,"['Action', 'Adventure', 'Indie', 'RPG']","Sep 20, 2012",19.99,88.0,2012.0
+122,76561197987101906,201790,Orcs Must Die! 2,259,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']","Jul 30, 2012",14.99,83.0,2012.0
+123,76561197987101906,201810,Wolfenstein: The New Order,1147,['Action'],"May 19, 2014",19.99,81.0,2014.0
+124,76561197987101906,202200,Galactic Civilizations II: Ultimate Edition,0,"['Indie', 'Strategy']","Dec 2, 2011",4.99,92.0,2011.0
+125,76561197987101906,203140,Hitman: Absolution,610,['Action'],"Nov 19, 2012",19.99,79.0,2012.0
+126,76561197987101906,203160,Tomb Raider,1530,"['Action', 'Adventure']","Mar 4, 2013",19.99,86.0,2013.0
+127,76561197987101906,204100,Max Payne 3,1722,['Action'],"May 31, 2012",5.99,87.0,2012.0
+128,76561197987101906,204300,Awesomenauts,82,"['Action', 'Indie', 'Strategy']","Aug 1, 2012",19.99,78.0,2012.0
+129,76561197987101906,204360,Castle Crashers,607,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']","Sep 26, 2012",14.99,81.0,2012.0
+130,76561197987101906,204630,Retro City Rampage™ DX,67,"['Action', 'Adventure', 'Indie', 'Racing']","Nov 11, 2014",14.99,80.5,2014.0
+131,76561197987101906,205100,Dishonored,1696,"['Action', 'Adventure']","Oct 8, 2012",9.99,91.0,2012.0
+132,76561197987101906,205230,Hell Yeah!,0,['Action'],"Oct 3, 2012",14.99,64.0,2012.0
+133,76561197987101906,205950,Jet Set Radio,0,['Action'],"Sep 19, 2012",14.99,81.0,2012.0
+134,76561197987101906,206210,Gotham City Impostors: Free To Play,62,"['Action', 'Free To Play']","Aug 30, 2012",14.99,81.0,2012.0
+135,76561197987101906,208140,ENDLESS™ Space - Definitive Edition,0,['Strategy'],"Jul 4, 2012",2.49,77.0,2012.0
+136,76561197987101906,208200,DOOM 3: BFG Edition,69,['Action'],"Oct 15, 2012",9.99,81.0,2012.0
+137,76561197987101906,208480,Assassin's Creed® III,1189,['Adventure'],"Nov 20, 2012",14.99,80.0,2012.0
+138,76561197987101906,209080,Guns of Icarus Online,0,"['Action', 'Adventure', 'Indie', 'Simulation']","Oct 29, 2012",4.99,64.0,2012.0
+139,76561197987101906,210770,Sanctum 2,0,"['Action', 'Indie', 'Strategy']","May 15, 2013",14.99,77.0,2013.0
+140,76561197987101906,211400,Deadlight,287,"['Action', 'Adventure', 'Indie']","Oct 25, 2012",3.74,78.0,2012.0
+141,76561197987101906,211420,DARK SOULS™: Prepare To Die Edition,494,"['Action', 'RPG']","Aug 24, 2012",14.99,85.0,2012.0
+142,76561197987101906,211820,Starbound,1514,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']","Jul 22, 2016",14.99,81.0,2016.0
+143,76561197987101906,212680,FTL: Faster Than Light,1974,"['Indie', 'Simulation', 'Strategy']","14 Sep, 2012",3.84,84.0,2012.0
+144,76561197987101906,213610,Sonic Adventure™ 2 ,0,['Action'],"Nov 19, 2012",9.99,81.0,2012.0
+145,76561197987101906,214510,LEGO® The Lord of the Rings™,0,"['Action', 'Adventure']","Nov 27, 2012",19.99,80.0,2012.0
+146,76561197987101906,218060,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,60,"['Action', 'Casual', 'Indie']","Feb 26, 2013",14.99,79.0,2013.0
+147,76561197987101906,218230,PlanetSide 2,1628,"['Action', 'Massively Multiplayer', 'Free To Play']","Nov 20, 2012",14.99,84.0,2012.0
+148,76561197987101906,218620,PAYDAY 2,218,"['Action', 'RPG']","Aug 13, 2013",4.99,79.0,2013.0
+149,76561197987101906,219150,Hotline Miami,208,"['Action', 'Indie']","Oct 23, 2012",9.99,85.0,2012.0
+150,76561197987101906,219640,Chivalry: Medieval Warfare,372,"['Action', 'Indie']","Oct 16, 2012",24.99,79.0,2012.0
+151,76561197987101906,219740,Don't Starve,408,"['Adventure', 'Indie', 'Simulation']","Apr 23, 2013",9.99,79.0,2013.0
+152,76561197987101906,220160,Trials Evolution Gold Edition,1727,"['Action', 'Racing']","Mar 21, 2013",19.99,85.0,2013.0
+153,76561197987101906,220200,Kerbal Space Program,0,"['Indie', 'Simulation']","Apr 27, 2015",39.99,88.0,2015.0
+154,76561197987101906,220240,Far Cry® 3,2638,"['Action', 'Adventure']","28 Nov, 2012",14.99,88.0,2012.0
+155,76561197987101906,221100,DayZ,8770,"['Action', 'Adventure', 'Massively Multiplayer']","Dec 13, 2018",49.99,85.0,2018.0
+156,76561197987101906,221380,Age of Empires II (2013),1588,['Strategy'],"Apr 9, 2013",19.99,68.0,2013.0
+157,76561197987101906,221680,Rocksmith® 2014 Edition - Remastered,832,"['Casual', 'Simulation']","Dec 19, 2024",9.99,88.5,2024.0
+158,76561197987101906,222480,Resident Evil Revelations,0,"['Action', 'Adventure']","May 20, 2013",19.99,77.0,2013.0
+159,76561197987101906,222880,Insurgency,698,"['Action', 'Indie', 'Strategy']","Jan 22, 2014",14.99,74.0,2014.0
+160,76561197987101906,224580,Arma 2: DayZ Mod,1,"['Action', 'Simulation', 'Strategy']","Feb 21, 2013",14.99,79.0,2013.0
+161,76561197987101906,224760,FEZ,170,['Indie'],"May 1, 2013",9.99,91.0,2013.0
+162,76561197987101906,224820,Super House of Dead Ninjas,0,"['Action', 'Indie']","Feb 18, 2013",19.99,79.0,2013.0
+163,76561197987101906,225080,Brothers - A Tale of Two Sons,0,"['Action', 'Adventure', 'Indie']","Sep 3, 2013",14.99,90.0,2013.0
+164,76561197987101906,225160,Shadow Warrior Classic Redux,0,['Action'],"Jul 8, 2013",9.99,79.0,2013.0
+165,76561197987101906,225260,Brütal Legend,384,"['Action', 'Adventure', 'Strategy']","Feb 26, 2013",14.99,80.0,2013.0
+166,76561197987101906,225540,Just Cause 3,350,"['Action', 'Adventure']","Nov 30, 2015",2.99,74.0,2015.0
+167,76561197987101906,226840,Age of Wonders III,0,"['RPG', 'Strategy']","Mar 31, 2014",29.99,80.0,2014.0
+168,76561197987101906,227940,Heroes & Generals,16,"['Action', 'Free To Play', 'Indie', 'Massively Multiplayer', 'Strategy']","Oct 18, 2016",19.99,84.0,2016.0
+169,76561197987101906,228200,Company of Heroes ,157,"['Action', 'Strategy']","Sep 11, 2006",19.99,93.0,2006.0
+170,76561197987101906,230230,Divinity: Original Sin (Classic),0,"['Adventure', 'Indie', 'RPG', 'Strategy']","Jun 30, 2014",19.99,87.0,2014.0
+171,76561197987101906,230270,N++,23,['Action'],"Aug 25, 2016",7.49,90.0,2016.0
+172,76561197987101906,230410,Warframe,355,"['Action', 'RPG', 'Free To Play']","Mar 25, 2013",14.99,69.0,2013.0
+173,76561197987101906,231430,Company of Heroes 2,4951,['Strategy'],"Jun 25, 2013",19.99,80.0,2013.0
+174,76561197987101906,232050,Eador. Masters of the Broken World,0,"['Indie', 'RPG', 'Strategy']","Apr 19, 2013",19.99,74.0,2013.0
+175,76561197987101906,233450,Prison Architect,0,"['Indie', 'Simulation', 'Strategy']","Oct 6, 2015",29.99,83.0,2015.0
+176,76561197987101906,233700,Sword of the Stars: The Pit,87,"['Casual', 'Indie', 'RPG', 'Strategy']","Feb 21, 2013",9.99,69.0,2013.0
+177,76561197987101906,233720,Surgeon Simulator,19,"['Action', 'Indie', 'Simulation']","Apr 19, 2013",9.99,71.0,2013.0
+178,76561197987101906,234650,Shadowrun Returns,0,"['Adventure', 'Indie', 'RPG', 'Strategy']","Jul 25, 2013",14.99,76.0,2013.0
+179,76561197987101906,236090,Dust: An Elysian Tail,64,"['Action', 'Adventure', 'Indie', 'RPG']","May 24, 2013",2.99,79.0,2013.0
+180,76561197987101906,236390,War Thunder,4213,"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']","Aug 15, 2013",14.99,81.0,2013.0
+181,76561197987101906,236870,HITMAN™,211,['Action'],"Mar 11, 2016",19.99,84.0,2016.0
+182,76561197987101906,238320,Outlast,0,"['Action', 'Adventure', 'Indie']","4 Sep, 2013",7.99,80.0,2013.0
+183,76561197987101906,238460,BattleBlock Theater,92,"['Action', 'Adventure', 'Casual', 'Indie']","15 May, 2014",16.99,85.0,2014.0
+184,76561197987101906,238960,Path of Exile,80763,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']","Oct 23, 2013",14.99,86.0,2013.0
+185,76561197987101906,239140,Dying Light,4456,"['Action', 'RPG']","Jan 26, 2015",24.99,87.0,2015.0
+186,76561197987101906,239200,Amnesia: A Machine for Pigs,0,"['Action', 'Adventure', 'Indie']","Sep 10, 2013",19.99,72.0,2013.0
+187,76561197987101906,239350,Spelunky,1828,['Indie'],"Aug 8, 2013",14.99,90.0,2013.0
+188,76561197987101906,240720,Getting Over It with Bennett Foddy,37,['Action'],"Dec 6, 2017",7.99,82.0,2017.0
+189,76561197987101906,241600,Rogue Legacy,424,"['Action', 'Adventure', 'Indie', 'RPG']","Jun 27, 2013",14.99,85.0,2013.0
+190,76561197987101906,242760,The Forest,441,"['Action', 'Adventure', 'Indie', 'Simulation']","Apr 30, 2018",19.99,83.0,2018.0
+191,76561197987101906,244210,Assetto Corsa,30,"['Indie', 'Racing', 'Simulation', 'Sports']","Dec 19, 2014",19.99,85.0,2014.0
+192,76561197987101906,244850,Space Engineers,186,"['Action', 'Indie', 'Simulation', 'Strategy']","Feb 28, 2019",19.99,81.0,2019.0
+193,76561197987101906,248820,Risk of Rain (2013),305,"['Action', 'Indie', 'RPG']","Nov 8, 2013",9.99,77.0,2013.0
+194,76561197987101906,249050,Dungeon of the ENDLESS™,0,"['Adventure', 'Indie', 'RPG', 'Strategy']","Oct 27, 2014",2.99,80.5,2014.0
+195,76561197987101906,250180,METAL SLUG 3,366,['Action'],"Feb 14, 2014",7.99,80.5,2014.0
+196,76561197987101906,251570,7 Days to Die,0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']","Jul 25, 2024",24.74,88.5,2024.0
+197,76561197987101906,252490,Rust,13940,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Feb 8, 2018",39.99,69.0,2018.0
+198,76561197987101906,252950,Rocket League,14290,"['Action', 'Indie', 'Racing', 'Sports']","Jul 6, 2015",19.99,86.0,2015.0
+199,76561197987101906,254700,Resident Evil 4 (2005),0,"['Action', 'Adventure']","27 Feb, 2014",19.99,79.0,2014.0
+200,76561197987101906,255710,Cities: Skylines,1628,"['Simulation', 'Strategy']","Mar 10, 2015",29.99,85.0,2015.0
+201,76561197987101906,261110,Killer is Dead,0,['Action'],"May 23, 2014",19.99,80.5,2014.0
+202,76561197987101906,261570,Ori and the Blind Forest,0,['Action'],"Mar 10, 2015",19.99,88.0,2015.0
+203,76561197987101906,261640,Borderlands: The Pre-Sequel,155,"['Action', 'RPG']","Oct 13, 2014",39.99,75.0,2014.0
+204,76561197987101906,264710,Subnautica,141,"['Adventure', 'Indie']","Jan 23, 2018",19.99,85.0,2018.0
+205,76561197987101906,265550,Dead Rising 3,656,['Action'],"Sep 5, 2014",29.99,80.5,2014.0
+206,76561197987101906,268050,The Evil Within,197,['Action'],"13 Oct, 2014",19.99,80.5,2014.0
+207,76561197987101906,268910,Cuphead,496,"['Action', 'Indie']","29 Sep, 2017",19.99,82.0,2017.0
+208,76561197987101906,271590,Grand Theft Auto V Legacy,56353,"['Action', 'Adventure']","Apr 13, 2015",19.99,96.0,2015.0
+209,76561197987101906,274190,Broforce,249,"['Action', 'Adventure', 'Casual', 'Indie']","Oct 15, 2015",14.99,83.0,2015.0
+210,76561197987101906,275850,No Man's Sky,424,"['Action', 'Adventure']","Aug 12, 2016",19.99,84.0,2016.0
+211,76561197987101906,286160,Tabletop Simulator,187,"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']","5 Jun, 2015",19.99,86.0,2015.0
+212,76561197987101906,287390,Metro: Last Light Redux,0,['Action'],"Aug 25, 2014",19.99,76.0,2014.0
+213,76561197987101906,287700,METAL GEAR SOLID V: THE PHANTOM PAIN,9,"['Action', 'Adventure']","1 Sep, 2015",19.99,86.0,2015.0
+214,76561197987101906,292120,FINAL FANTASY XIII,112,['RPG'],"Oct 9, 2014",19.99,80.5,2014.0
+215,76561197987101906,295110,Just Survive,3149,"['Action', 'Adventure', 'Massively Multiplayer']","Jan 15, 2015",19.99,86.0,2015.0
+216,76561197987101906,298110,Far Cry 4,163,"['Action', 'Adventure']","17 Nov, 2014",19.99,80.5,2014.0
+217,76561197987101906,305620,The Long Dark,0,"['Adventure', 'Indie', 'Simulation', 'Strategy']","Aug 1, 2017",19.99,82.0,2017.0
+218,76561197987101906,306130,The Elder Scrolls Online,2615,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']","May 22, 2017",19.99,82.0,2017.0
+219,76561197987101906,311340,METAL GEAR SOLID V: GROUND ZEROES,0,"['Action', 'Adventure']","Dec 18, 2014",19.99,80.5,2014.0
+220,76561197987101906,322330,Don't Starve Together,381,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']","21 Apr, 2016",14.99,83.0,2016.0
+221,76561197987101906,330830,Tales from the Borderlands,150,['Adventure'],"Feb 16, 2021",22.79,84.0,2021.0
+222,76561197987101906,335300,DARK SOULS™ II: Scholar of the First Sin,56,"['Action', 'RPG']","Apr 1, 2015",19.99,86.0,2015.0
+223,76561197987101906,337000,Deus Ex: Mankind Divided™,0,"['Action', 'RPG']","Aug 23, 2016",19.99,84.0,2016.0
+224,76561197987101906,346110,ARK: Survival Evolved,1367,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Aug 27, 2017",14.99,70.0,2017.0
+225,76561197987101906,359550,Tom Clancy's Rainbow Six® Siege X,17379,"['Action', 'Free To Play']","1 Dec, 2015",19.99,86.0,2015.0
+226,76561197987101906,362300,Just Survive Test Server,0,['Massively Multiplayer'],"Apr 16, 2015",19.99,86.0,2015.0
+227,76561197987101906,363440,Mega Man Legacy Collection,0,['Action'],"Aug 24, 2015",19.99,86.0,2015.0
+228,76561197987101906,367520,Hollow Knight,23,"['Action', 'Adventure', 'Indie']","24 Feb, 2017",19.49,87.0,2017.0
+229,76561197987101906,373420,Divinity: Original Sin Enhanced Edition,107,"['Adventure', 'Indie', 'RPG', 'Strategy']","Oct 27, 2015",19.99,86.0,2015.0
+230,76561197987101906,374320,DARK SOULS™ III,140,['Action'],"11 Apr, 2016",19.99,89.0,2016.0
+231,76561197987101906,377160,Fallout 4,4751,['RPG'],"Nov 9, 2015",19.99,86.0,2015.0
+232,76561197987101906,379720,DOOM,708,['Action'],"May 12, 2016",19.99,84.0,2016.0
+233,76561197987101906,387290,Ori and the Blind Forest: Definitive Edition,562,['Action'],"27 Apr, 2016",6.24,88.0,2016.0
+234,76561197987101906,391220,Rise of the Tomb Raider,748,"['Action', 'Adventure']","Feb 9, 2016",19.99,84.0,2016.0
+235,76561197987101906,395200,Ben and Ed,30,"['Action', 'Adventure', 'Indie']","Dec 8, 2015",19.99,86.0,2015.0
+236,76561197987101906,397950,Clustertruck,16,"['Action', 'Indie']","Sep 27, 2016",19.99,84.0,2016.0
+237,76561197987101906,407530,ARK: Survival Of The Fittest,138,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']","Aug 29, 2017",19.99,82.0,2017.0
+238,76561197987101906,409720,BioShock 2 Remastered,0,"['Action', 'RPG']","Sep 15, 2016",19.99,84.0,2016.0
+239,76561197987101906,412020,Metro Exodus,0,['Action'],"Feb 14, 2020",19.99,85.5,2020.0
+240,76561197987101906,418240,Shadow Tactics: Blades of the Shogun,723,"['Indie', 'Strategy']","6 Dec, 2016",19.99,84.0,2016.0
+241,76561197987101906,420290,Blackwake,0,"['Action', 'Casual', 'Indie', 'Strategy', 'Free To Play']","Feb 19, 2020",19.99,85.5,2020.0
+242,76561197987101906,427520,Factorio,117493,"['Casual', 'Indie', 'Simulation', 'Strategy']","Aug 14, 2020",19.99,85.5,2020.0
+243,76561197987101906,431240,Golf With Your Friends,654,"['Casual', 'Indie', 'Sports']","May 19, 2020",19.99,85.5,2020.0
+244,76561197987101906,431960,Wallpaper Engine,26,"['Casual', 'Indie', 'Animation & Modeling', 'Design & Illustration', 'Photo Editing', 'Utilities']","16 Nov, 2018",19.99,85.0,2018.0
+245,76561197987101906,433850,Z1 Battle Royale,18556,"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer']","Feb 28, 2018",19.99,85.0,2018.0
+246,76561197987101906,435150,Divinity: Original Sin 2,23,"['Adventure', 'RPG', 'Strategy']","Sep 14, 2017",19.99,82.0,2017.0
+247,76561197987101906,439700,H1Z1: Test Server,102,['Massively Multiplayer'],"Feb 24, 2016",19.99,84.0,2016.0
+248,76561197987101906,462780,Darksiders Warmastered Edition,1,"['Action', 'Adventure', 'RPG']","Nov 29, 2016",19.99,84.0,2016.0
+249,76561197987101906,471710,Rec Room,52,"['Adventure', 'Casual', 'Massively Multiplayer', 'Free To Play']","Sep 2, 2021",22.79,84.0,2021.0
+250,76561197987101906,493340,Planet Coaster,54,"['Action', 'Adventure', 'Casual', 'Simulation', 'Strategy']","Nov 17, 2016",19.99,84.0,2016.0
+251,76561197987101906,543460,Dead Rising 4,0,['Action'],"Mar 14, 2017",19.99,82.0,2017.0
+252,76561197987101906,548430,Deep Rock Galactic,8,['Action'],"May 13, 2020",8.99,85.0,2020.0
+253,76561197987101906,552500,Warhammer: Vermintide 2,0,"['Action', 'Indie', 'RPG']","Mar 8, 2018",19.99,85.0,2018.0
+254,76561197987101906,578080,PUBG: BATTLEGROUNDS,19731,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']","21 Dec, 2017",19.99,82.0,2017.0
+255,76561197987101906,582660,Black Desert,325,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy']","May 24, 2017",19.99,82.0,2017.0
+256,76561197987101906,588650,Dead Cells,71,"['Action', 'Adventure', 'Indie']","6 Aug, 2018",12.49,89.0,2018.0
+257,76561197987101906,601150,Devil May Cry 5,43,['Action'],"7 Mar, 2019",29.99,89.0,2019.0
+258,76561197987101906,638970,Yakuza 0,110,"['Action', 'Adventure', 'RPG']","1 Aug, 2018",19.99,85.0,2018.0
+259,76561197987101906,671860,BattleBit Remastered,1107,"['Action', 'Massively Multiplayer', 'Early Access']","Jun 15, 2023",29.99,83.0,2023.0
+260,76561197987101906,678950,DRAGON BALL FighterZ,4733,['Action'],"26 Jan, 2018",19.19,85.0,2018.0
+261,76561197987101906,703080,Planet Zoo,0,"['Casual', 'Simulation', 'Strategy']","Nov 5, 2019",29.99,81.0,2019.0
+262,76561197987101906,729040,Borderlands GOTY Enhanced,0,"['Action', 'RPG']","Aug 31, 2023",29.99,83.0,2023.0
+263,76561197987101906,731490,Crash Bandicoot™ N. Sane Trilogy,34,['Action'],"Jun 29, 2018",19.99,85.0,2018.0
+264,76561197987101906,750920,Shadow of the Tomb Raider,0,"['Action', 'Adventure']","Sep 14, 2018",19.99,85.0,2018.0
+265,76561197987101906,782330,DOOM Eternal,4901,['Action'],"Mar 19, 2020",39.99,88.0,2020.0
+266,76561197987101906,813780,Age of Empires II: Definitive Edition,265,['Strategy'],"Nov 14, 2019",29.99,81.0,2019.0
+267,76561197987101906,814380,Sekiro™: Shadows Die Twice,1470,"['Action', 'Adventure']","21 Mar, 2019",29.99,81.0,2019.0
+268,76561197987101906,870780,Control Ultimate Edition,0,"['Action', 'Adventure']","Aug 27, 2020",19.99,85.5,2020.0
+269,76561197987101906,883710,Resident Evil 2,1173,['Action'],"24 Jan, 2019",39.99,89.0,2019.0
+270,76561197987101906,893180,Catherine Classic,0,['Adventure'],"Jan 10, 2019",29.99,81.0,2019.0
+271,76561197987101906,945360,Among Us,0,['Casual'],"16 Nov, 2018",19.99,85.0,2018.0
+272,76561197987101906,952060,Resident Evil 3,283,['Action'],"Apr 2, 2020",19.99,85.5,2020.0
+273,76561197987101906,976730,Halo: The Master Chief Collection,16380,['Action'],"3 Dec, 2019",29.99,81.0,2019.0
+274,76561197987101906,1097150,Fall Guys,733,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Sports']","3 Aug, 2020",19.99,80.0,2020.0
+275,76561197987101906,1139900,Ghostrunner,0,['Action'],"27 Oct, 2020",19.99,81.0,2020.0
+276,76561197987101906,1151340,Fallout 76,0,['RPG'],"Apr 14, 2020",19.99,85.5,2020.0
+277,76561197987101906,1172470,Apex Legends,395,"['Action', 'Adventure', 'Free To Play']","Nov 4, 2020",19.99,85.5,2020.0
+278,76561197987101906,1240440,Halo Infinite,4963,"['Action', 'Free To Play']","15 Nov, 2021",22.79,84.0,2021.0
+279,76561197987101906,1245620,ELDEN RING,2086,"['Action', 'RPG']","24 Feb, 2022",44.99,86.0,2022.0
+281,76561197987101906,1599340,Lost Ark,465,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']","Feb 11, 2022",44.99,86.0,2022.0
+282,76561197987101906,1716740,Starfield,112,['RPG'],"5 Sep, 2023",29.99,83.0,2023.0
+283,76561197987101906,1850570,DEATH STRANDING DIRECTOR'S CUT,0,"['Action', 'Adventure']","30 Mar, 2022",44.99,85.0,2022.0
+284,76561197987101906,2050650,Resident Evil 4,21,"['Action', 'Adventure']","23 Mar, 2023",29.99,91.0,2023.0
+285,76561197987101906,2229830,Command & Conquer™ and The Covert Operations™,0,"['Action', 'Strategy']","7 Mar, 2024",31.740000000000002,88.5,2024.0
+286,76561197987101906,2229850,Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™,5,"['Action', 'Strategy']","7 Mar, 2024",31.740000000000002,88.5,2024.0
+287,76561197987101906,2321470,Deep Rock Galactic: Survivor,62,['Action'],"Sep 17, 2025",42.99,87.0,2025.0
+288,76561197987101906,2352620,Fellowship,686,"['RPG', 'Early Access']","Oct 16, 2025",42.99,87.0,2025.0
+289,76561197987101906,2767030,Marvel Rivals,1002,"['Action', 'Free To Play']","Dec 5, 2024",31.740000000000002,88.5,2024.0
+290,76561197987101906,3240220,Grand Theft Auto V Enhanced,0,"['Action', 'Adventure', 'Racing']","4 Mar, 2025",42.99,87.0,2025.0
+291,76561197987101906,3241660,R.E.P.O.,400,"['Action', 'Early Access']","Feb 26, 2025",9.99,87.0,2025.0
+292,76561197961796260,30,Day of Defeat,33,['Action'],"May 1, 2003",4.99,79.0,2003.0
+293,76561197961796260,40,Deathmatch Classic,0,['Action'],"Jun 1, 2001",4.99,71.0,2001.0
+296,76561197961796260,130,Half-Life: Blue Shift,0,['Action'],"Jun 1, 2001",4.99,71.0,2001.0
+297,76561197961796260,220,Half-Life 2,0,['Action'],"Nov 16, 2004",9.99,96.0,2004.0
+298,76561197961796260,240,Counter-Strike: Source,4883,['Action'],"Nov 1, 2004",9.99,92.0,2004.0
+299,76561197961796260,300,Day of Defeat: Source,3473,['Action'],"Jul 12, 2010",9.99,80.0,2010.0
+300,76561197961796260,320,Half-Life 2: Deathmatch,0,['Action'],"1 Nov, 2004",9.99,92.0,2004.0
+301,76561197961796260,360,Half-Life Deathmatch: Source,0,['Action'],"1 May, 2006",32.99,91.5,2006.0
+302,76561197961796260,400,Portal,653,['Action'],"Oct 10, 2007",9.99,88.5,2007.0
+303,76561197961796260,440,Team Fortress 2,16451,"['Action', 'Free To Play']","Oct 10, 2007",9.99,88.5,2007.0
+304,76561197961796260,550,Left 4 Dead 2,363,['Action'],"16 Nov, 2009",9.99,85.0,2009.0
+305,76561197961796260,570,Dota 2,191391,"['Action', 'Strategy', 'Free To Play']","Jul 9, 2013",14.99,79.0,2013.0
+306,76561197961796260,620,Portal 2,2001,"['Action', 'Adventure']","Apr 18, 2011",9.99,95.0,2011.0
+307,76561197961796260,730,Counter-Strike 2,5993,"['Action', 'Free To Play']","Aug 21, 2012",14.99,81.0,2012.0
+308,76561197961796260,1250,Killing Floor,229,['Action'],"May 14, 2009",9.99,85.0,2009.0
+309,76561197961796260,4000,Garry's Mod,714,"['Casual', 'Indie', 'Simulation']","Nov 29, 2006",19.99,91.5,2006.0
+310,76561197961796260,8190,Just Cause 2,1,"['Action', 'Adventure']","23 Mar, 2010",14.99,84.0,2010.0
+311,76561197961796260,8980,Borderlands GOTY,184,"['Action', 'RPG']","Aug 31, 2023",29.99,83.0,2023.0
+312,76561197961796260,12210,Grand Theft Auto IV: The Complete Edition,416,"['Action', 'Adventure']","Mar 24, 2020",5.99,90.0,2020.0
+313,76561197961796260,12900,Audiosurf,0,['Indie'],"Feb 15, 2008",9.99,86.0,2008.0
+314,76561197961796260,17080,Tribes: Ascend,230,"['Action', 'Free To Play']","Jun 27, 2012",14.99,81.0,2012.0
+315,76561197961796260,17480,Command & Conquer™ Red Alert™ 3,382,"['Action', 'Strategy']","8 Jan, 2009",9.99,82.0,2009.0
+316,76561197961796260,20900,The Witcher: Enhanced Edition,0,"['Action', 'RPG']","Sep 19, 2008",9.99,86.0,2008.0
+317,76561197961796260,20920,The Witcher 2: Assassins of Kings Enhanced Edition,0,['RPG'],"Apr 16, 2012",14.99,81.0,2012.0
+318,76561197961796260,24780,SimCity 4 Deluxe,54,"['Simulation', 'Strategy']","Jul 20, 2010",14.99,84.0,2010.0
+319,76561197961796260,24960,Battlefield: Bad Company™ 2,332,['Action'],"Mar 2, 2010",14.99,84.0,2010.0
+320,76561197961796260,32370,STAR WARS™ Knights of the Old Republic™,37,"['Adventure', 'RPG']","Sep 5, 2009",9.99,85.0,2009.0
+321,76561197961796260,33220,Tom Clancy's Splinter Cell: Conviction,1,['Action'],"29 Apr, 2010",14.99,83.0,2010.0
+322,76561197961796260,33930,Arma 2: Operation Arrowhead,0,"['Action', 'Simulation', 'Strategy']","Jun 29, 2010",14.99,84.0,2010.0
+323,76561197961796260,35420,Killing Floor Mod: Defence Alliance 2,0,['Action'],"Dec 11, 2009",9.99,85.0,2009.0
+324,76561197961796260,40800,Super Meat Boy,0,['Indie'],"Nov 30, 2010",14.99,84.0,2010.0
+325,76561197961796260,57300,Amnesia: The Dark Descent,15,"['Action', 'Adventure', 'Indie']","Sep 8, 2010",14.99,84.0,2010.0
+326,76561197961796260,65800,Dungeon Defenders,64,"['Action', 'Indie', 'RPG', 'Strategy']","Oct 18, 2011",2.99,81.0,2011.0
+327,76561197961796260,72850,The Elder Scrolls V: Skyrim,4117,['RPG'],"Nov 10, 2011",9.99,84.0,2011.0
+328,76561197961796260,105600,Terraria,500,"['Action', 'Adventure', 'Indie', 'RPG']","May 16, 2011",9.99,83.0,2011.0
+329,76561197961796260,108710,Alan Wake,0,"['Action', 'Adventure']","16 Feb, 2012",67.99,83.0,2012.0
+330,76561197961796260,200260,Batman: Arkham City GOTY,159,"['Action', 'Adventure']","Sep 7, 2012",14.99,81.0,2012.0
+331,76561197961796260,203160,Tomb Raider,0,"['Action', 'Adventure']","Mar 4, 2013",14.99,79.0,2013.0
+332,76561197961796260,204360,Castle Crashers,7,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']","Sep 26, 2012",14.99,81.0,2012.0
+333,76561197961796260,205100,Dishonored,988,"['Action', 'Adventure']","Oct 8, 2012",14.99,81.0,2012.0
+334,76561197961796260,208580,STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™,2106,['RPG'],"Aug 23, 2012",14.99,81.0,2012.0
+335,76561197961796260,211420,DARK SOULS™: Prepare To Die Edition,44,"['Action', 'RPG']","Aug 24, 2012",14.99,81.0,2012.0
+336,76561197961796260,212480,Sonic & All-Stars Racing Transformed Collection,46,"['Racing', 'Sports']","Jan 31, 2013",14.99,79.0,2013.0
+337,76561197961796260,220200,Kerbal Space Program,0,"['Indie', 'Simulation']","Apr 27, 2015",19.99,86.0,2015.0
+338,76561197961796260,221380,Age of Empires II (2013),50,['Strategy'],"Apr 9, 2013",14.99,79.0,2013.0
+339,76561197961796260,224760,FEZ,95,['Indie'],"May 1, 2013",14.99,79.0,2013.0
+340,76561197961796260,230410,Warframe,99,"['Action', 'RPG', 'Free To Play']","Mar 25, 2013",14.99,69.0,2013.0
+341,76561197961796260,232910,TrackMania² Stadium,647,"['Racing', 'Sports']","Jun 20, 2013",14.99,79.0,2013.0
+342,76561197961796260,251150,The Legend of Heroes: Trails in the Sky,64,['RPG'],"29 Jul, 2014",21.99,85.0,2014.0
+343,76561197961796260,256460,Cosmic Star Heroine,1,"['Indie', 'RPG']","Apr 11, 2017",19.99,82.0,2017.0
+344,76561197961796260,261570,Ori and the Blind Forest,719,['Action'],"Mar 10, 2015",19.99,86.0,2015.0
+345,76561197961796260,268910,Cuphead,309,"['Action', 'Indie']","29 Sep, 2017",19.99,82.0,2017.0
+346,76561197961796260,271590,Grand Theft Auto V Legacy,284,"['Action', 'Adventure']","Apr 13, 2015",19.99,86.0,2015.0
+347,76561197961796260,286160,Tabletop Simulator,1265,"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']","5 Jun, 2015",12.99,86.0,2015.0
+348,76561197961796260,292030,The Witcher 3: Wild Hunt,5194,['RPG'],"May 18, 2015",19.99,86.0,2015.0
+349,76561197961796260,292120,FINAL FANTASY XIII,82,['RPG'],"Oct 9, 2014",19.99,80.5,2014.0
+350,76561197961796260,359870,FINAL FANTASY X/X-2 HD Remaster,3059,['RPG'],"May 12, 2016",11.99,84.0,2016.0
+351,76561197961796260,367520,Hollow Knight,172,"['Action', 'Adventure', 'Indie']","24 Feb, 2017",46.99,87.0,2017.0
+352,76561197961796260,377840,FINAL FANTASY IX,0,['RPG'],"14 Apr, 2016",9.59,84.0,2016.0
+353,76561197961796260,379720,DOOM,0,['Action'],"May 12, 2016",19.99,84.0,2016.0
+354,76561197961796260,391540,Undertale,166,"['Indie', 'RPG']","Sep 15, 2015",19.99,86.0,2015.0
+355,76561197961796260,403640,Dishonored 2,0,['Action'],"Nov 11, 2016",29.99,86.0,2016.0
+356,76561197961796260,413150,Stardew Valley,4729,"['Indie', 'RPG', 'Simulation']","Feb 26, 2016",19.99,84.0,2016.0
+357,76561197961796260,431240,Golf With Your Friends,523,"['Casual', 'Indie', 'Sports']","May 19, 2020",19.99,85.5,2020.0
+358,76561197961796260,433850,Z1 Battle Royale,5063,"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer']","Feb 28, 2018",19.99,85.0,2018.0
+359,76561197961796260,435150,Divinity: Original Sin 2,543,"['Adventure', 'RPG', 'Strategy']","Sep 14, 2017",44.99,93.0,2017.0
+360,76561197961796260,439700,H1Z1: Test Server,0,['Massively Multiplayer'],"Feb 24, 2016",19.99,84.0,2016.0
+361,76561197961796260,493340,Planet Coaster,36,"['Action', 'Adventure', 'Casual', 'Simulation', 'Strategy']","Nov 17, 2016",19.99,84.0,2016.0
+362,76561197961796260,524220,NieR:Automata™,348,"['Action', 'RPG']","17 Mar, 2017",19.99,82.0,2017.0
+363,76561197961796260,548430,Deep Rock Galactic,4106,['Action'],"May 13, 2020",19.99,85.5,2020.0
+364,76561197961796260,578080,PUBG: BATTLEGROUNDS,10712,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']","21 Dec, 2017",19.99,82.0,2017.0
+365,76561197961796260,632470,Disco Elysium,18,['RPG'],"15 Oct, 2019",45.49,97.0,2019.0
+366,76561197961796260,638970,Yakuza 0,3108,"['Action', 'Adventure', 'RPG']","1 Aug, 2018",19.99,86.0,2018.0
+367,76561197961796260,729040,Borderlands GOTY Enhanced,0,"['Action', 'RPG']","Aug 31, 2023",29.99,83.0,2023.0
+368,76561197961796260,753640,Outer Wilds,1291,"['Action', 'Adventure']","18 Jun, 2020",32.99,85.0,2020.0
+369,76561197961796260,782330,DOOM Eternal,1,['Action'],"Mar 19, 2020",19.99,85.5,2020.0
+370,76561197961796260,813780,Age of Empires II: Definitive Edition,646,['Strategy'],"Nov 14, 2019",29.99,81.0,2019.0
+371,76561197961796260,945360,Among Us,90,['Casual'],"Nov 16, 2018",4.99,85.0,2018.0
+372,76561197961796260,976730,Halo: The Master Chief Collection,5943,['Action'],"3 Dec, 2019",49.99,81.0,2019.0
+373,76561197961796260,1046930,Dota Underlords,1068,"['Casual', 'Strategy', 'Free To Play']","Jun 20, 2019",29.99,81.0,2019.0
+374,76561197961796260,1057090,Ori and the Will of the Wisps,322,['Action'],"Mar 10, 2020",9.89,88.0,2020.0
+375,76561197961796260,1086940,Baldur's Gate 3,21626,"['Adventure', 'RPG', 'Strategy']","Aug 3, 2023",59.99,96.0,2023.0
+376,76561197961796260,1133760,CHRONO CROSS: THE RADICAL DREAMERS EDITION,4990,"['Adventure', 'RPG']","Apr 7, 2022",7.99,86.0,2022.0
+377,76561197961796260,1145360,Hades,0,"['Action', 'Indie', 'RPG']","17 Sep, 2020",32.5,93.0,2020.0
+378,76561197961796260,1172380,STAR WARS Jedi: Fallen Order™ ,0,"['Action', 'Adventure']","14 Nov, 2019",29.99,81.0,2019.0
+379,76561197961796260,1172470,Apex Legends,16177,"['Action', 'Adventure', 'Free To Play']","Nov 4, 2020",19.99,88.0,2020.0
+380,76561197961796260,1240440,Halo Infinite,58,"['Action', 'Free To Play']","15 Nov, 2021",22.79,84.0,2021.0
+381,76561197961796260,1336490,Against the Storm,52,"['Simulation', 'Strategy']","Dec 8, 2023",29.99,91.0,2023.0
+382,76561197961796260,1337520,Risk of Rain Returns,285,['Action'],"Nov 8, 2023",14.99,83.0,2023.0
+384,76561197961796260,1426210,It Takes Two,738,"['Action', 'Adventure']","25 Mar, 2021",22.79,89.0,2021.0
+385,76561197961796260,1794680,Vampire Survivors,0,"['Action', 'Casual', 'Indie', 'RPG']","Oct 20, 2022",4.99,86.0,2022.0
+386,76561197961796260,1888930,The Last of Us™ Part I,0,"['Action', 'Adventure']","28 Mar, 2023",29.99,83.0,2023.0
+387,76561197961796260,1903340,Clair Obscur: Expedition 33,103,"['Action', 'RPG']","Apr 24, 2025",49.99,91.0,2025.0
+388,76561197961796260,2073850,THE FINALS,22368,"['Action', 'Free To Play']","Dec 7, 2023",29.99,83.0,2023.0
+389,76561197961796260,2362420,Mass Effect 2 (2010) Edition,0,['RPG'],"May 15, 2023",8.99,94.0,2023.0
+390,76561197961796260,3240220,Grand Theft Auto V Enhanced,0,"['Action', 'Adventure', 'Racing']","4 Mar, 2025",42.99,87.0,2025.0
+391,76561197981585225,220,Half-Life 2,1,['Action'],"Nov 16, 2004",9.99,96.0,2004.0
+392,76561197981585225,240,Counter-Strike: Source,0,['Action'],"Nov 1, 2004",9.99,88.0,2004.0
+393,76561197981585225,280,Half-Life: Source,0,['Action'],"1 Jun, 2004",5.79,92.0,2004.0
+394,76561197981585225,320,Half-Life 2: Deathmatch,0,['Action'],"Nov 1, 2004",9.99,92.0,2004.0
+395,76561197981585225,360,Half-Life Deathmatch: Source,0,['Action'],"May 1, 2006",9.99,91.5,2006.0
+396,76561197981585225,400,Portal,84,['Action'],"Oct 10, 2007",9.99,90.0,2007.0
+397,76561197981585225,550,Left 4 Dead 2,309,['Action'],"Nov 16, 2009",9.99,89.0,2009.0
+398,76561197981585225,620,Portal 2,530,"['Action', 'Adventure']","Apr 18, 2011",9.99,95.0,2011.0
+399,76561197981585225,730,Counter-Strike 2,777,"['Action', 'Free To Play']","Aug 21, 2012",14.99,81.0,2012.0
+400,76561197981585225,1200,Red Orchestra: Ostfront 41-45,0,['Action'],"Mar 14, 2006",4.99,81.0,2006.0
+401,76561197981585225,1230,Mare Nostrum,0,['Action'],"Oct 17, 2008",9.99,86.0,2008.0
+402,76561197981585225,1250,Killing Floor,33,['Action'],"May 14, 2009",19.99,72.0,2009.0
+403,76561197981585225,1280,Darkest Hour: Europe '44-'45,0,"['Action', 'Simulation']","Jun 9, 2009",9.99,85.0,2009.0
+404,76561197981585225,2310,Quake,155,['Action'],"Aug 3, 2007",9.99,94.0,2007.0
+405,76561197981585225,2600,Vampire: The Masquerade - Bloodlines,0,['Action'],"Mar 22, 2007",19.99,80.0,2007.0
+406,76561197981585225,4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,44,"['Action', 'RPG']","Mar 20, 2007",19.99,82.0,2007.0
+407,76561197981585225,4720,Condemned: Criminal Origins,0,['Action'],"Apr 11, 2006",19.99,78.0,2006.0
+408,76561197981585225,4760,Rome: Total War,0,['Strategy'],"Aug 28, 2007",9.99,92.0,2007.0
+409,76561197981585225,4920,Natural Selection 2,57448,"['Action', 'Indie', 'Strategy']","Oct 30, 2012",4.99,80.0,2012.0
+410,76561197981585225,6020,STAR WARS™ Jedi Knight: Jedi Academy™,0,['Action'],"Sep 16, 2009",9.99,81.0,2009.0
+411,76561197981585225,6030,STAR WARS™ Jedi Knight II: Jedi Outcast™,0,['Action'],"Sep 16, 2009",9.99,89.0,2009.0
+412,76561197981585225,6910,Deus Ex: Game of the Year Edition,498,['Action'],"Mar 29, 2007",6.99,90.0,2007.0
+413,76561197981585225,6920,Deus Ex: Invisible War,0,['Action'],"Mar 29, 2007",6.99,80.0,2007.0
+414,76561197981585225,8850,BioShock 2,775,['Action'],"Feb 9, 2010",19.99,88.0,2010.0
+415,76561197981585225,8870,BioShock Infinite,891,['Action'],"Mar 25, 2013",29.99,94.0,2013.0
+416,76561197981585225,8930,Sid Meier's Civilization V,938,['Strategy'],"Sep 21, 2010",29.99,90.0,2010.0
+417,76561197981585225,13520,Far Cry,40,['Action'],"Apr 1, 2008",9.99,89.0,2008.0
+418,76561197981585225,16450,F.E.A.R. 2: Project Origin,0,['Action'],"12 Feb, 2009",9.99,79.0,2009.0
+419,76561197981585225,17300,Crysis,71,['Action'],"Sep 17, 2008",29.99,91.0,2008.0
+420,76561197981585225,17470,Dead Space (2008),120,"['Action', 'Adventure']","Jan 9, 2009",7.99,87.0,2009.0
+421,76561197981585225,19900,Far Cry 2,0,['Action'],"Oct 22, 2008",9.99,85.0,2008.0
+422,76561197981585225,20510,S.T.A.L.K.E.R.: Clear Sky,0,"['Action', 'RPG']","Sep 15, 2008",19.99,75.0,2008.0
+423,76561197981585225,20900,The Witcher: Enhanced Edition,0,"['Action', 'RPG']","Sep 19, 2008",9.99,86.0,2008.0
+424,76561197981585225,20920,The Witcher 2: Assassins of Kings Enhanced Edition,0,['RPG'],"Apr 16, 2012",19.99,88.0,2012.0
+425,76561197981585225,21090,F.E.A.R.,48,['Action'],"May 21, 2010",9.99,88.0,2010.0
+426,76561197981585225,21100,F.E.A.R. 3,0,['Action'],"Jun 21, 2011",19.99,74.0,2011.0
+427,76561197981585225,21110,F.E.A.R.: Extraction Point,0,['Action'],"May 21, 2010",9.99,88.0,2010.0
+428,76561197981585225,21120,F.E.A.R.: Perseus Mandate,0,['Action'],"May 21, 2010",9.99,88.0,2010.0
+429,76561197981585225,22120,Penumbra: Black Plague,359,"['Action', 'Adventure', 'Indie']","Jan 23, 2009",9.99,78.0,2009.0
+430,76561197981585225,22320,The Elder Scrolls III: Morrowind,0,['RPG'],"Jun 16, 2009",14.99,89.0,2009.0
+431,76561197981585225,22330,The Elder Scrolls IV: Oblivion Game of the Year Edition (2009),1076,['RPG'],"Jun 16, 2009",14.99,94.0,2009.0
+432,76561197981585225,22370,Fallout 3 - Game of the Year Edition,3,['RPG'],"Dec 17, 2009",4.99,91.0,2009.0
+433,76561197981585225,22380,Fallout: New Vegas,2347,"['Action', 'RPG']","19 Oct, 2010",3.37,84.0,2010.0
+434,76561197981585225,26800,Braid,38,"['Casual', 'Indie', 'Strategy']","Apr 10, 2009",14.99,90.0,2009.0
+435,76561197981585225,32370,STAR WARS™ Knights of the Old Republic™,2075,"['Adventure', 'RPG']","Sep 5, 2009",9.99,85.0,2009.0
+436,76561197981585225,32380,STAR WARS™ Jedi Knight: Dark Forces II,74,['Action'],"Sep 16, 2009",5.99,91.0,2009.0
+437,76561197981585225,32390,STAR WARS™ Jedi Knight: Mysteries of the Sith™,0,['Action'],"Sep 16, 2009",2.99,85.0,2009.0
+438,76561197981585225,32400,STAR WARS™: Dark Forces,490,['Action'],"Sep 16, 2009",5.99,85.0,2009.0
+439,76561197981585225,33930,Arma 2: Operation Arrowhead,710,"['Action', 'Simulation', 'Strategy']","Jun 29, 2010",19.99,73.0,2010.0
+440,76561197981585225,34270,SEGA Mega Drive & Genesis Classics,0,"['Action', 'Adventure', 'Casual', 'RPG']","Jun 1, 2010",14.99,84.0,2010.0
+441,76561197981585225,35420,Killing Floor Mod: Defence Alliance 2,0,['Action'],"Dec 11, 2009",9.99,85.0,2009.0
+442,76561197981585225,35450,Rising Storm/Red Orchestra 2 Multiplayer,0,"['Action', 'Massively Multiplayer', 'Simulation']","Sep 13, 2011",19.99,76.0,2011.0
+443,76561197981585225,35460,The Ball,0,"['Action', 'Adventure', 'Indie', 'Strategy']","Oct 26, 2010",9.99,68.0,2010.0
+444,76561197981585225,35480,Dwarfs!?,16,"['Casual', 'Indie', 'Strategy']","May 4, 2011",9.99,84.0,2011.0
+445,76561197981585225,38400,Fallout,0,['RPG'],"1 Nov, 2015",79.98,89.0,2015.0
+446,76561197981585225,38410,Fallout 2,1641,['RPG'],"19 Aug, 2009",4.99,86.0,2009.0
+447,76561197981585225,38420,Fallout Tactics,0,['Strategy'],"Aug 19, 2009",2.49,82.0,2009.0
+448,76561197981585225,39140,FINAL FANTASY VII,3760,['RPG'],"Jul 4, 2013",4.79,79.0,2013.0
+449,76561197981585225,41700,S.T.A.L.K.E.R.: Call of Pripyat,0,"['Action', 'RPG']","Feb 11, 2010",19.99,80.0,2010.0
+450,76561197981585225,47780,Dead Space 2,327,"['Action', 'Adventure']","27 Jan, 2011",9.99,87.0,2011.0
+451,76561197981585225,48000,LIMBO,305,"['Action', 'Adventure', 'Indie']","Aug 2, 2011",12.49,88.0,2011.0
+452,76561197981585225,49520,Borderlands 2,1722,"['Action', 'RPG']","Sep 17, 2012",19.99,89.0,2012.0
+453,76561197981585225,65800,Dungeon Defenders,16,"['Action', 'Indie', 'RPG', 'Strategy']","Oct 18, 2011",2.99,81.0,2011.0
+454,76561197981585225,72850,The Elder Scrolls V: Skyrim,3631,['RPG'],"Nov 10, 2011",19.99,94.0,2011.0
+455,76561197981585225,105450,Age of Empires® III (2007),242,"['Simulation', 'Strategy']","Jan 5, 2012",14.99,81.0,2012.0
+456,76561197981585225,107100,Bastion,94,"['Action', 'Indie', 'RPG']","Aug 16, 2011",14.99,86.0,2011.0
+457,76561197981585225,108600,Project Zomboid,518,"['Indie', 'RPG', 'Simulation', 'Early Access']","8 Nov, 2013",14.99,79.0,2013.0
+458,76561197981585225,115100,Costume Quest,0,"['Adventure', 'Casual', 'RPG']","Oct 14, 2011",9.99,84.0,2011.0
+459,76561197981585225,200510,XCOM: Enemy Unknown,1373,['Strategy'],"Oct 8, 2012",29.99,89.0,2012.0
+460,76561197981585225,200710,Torchlight II,36,"['Action', 'Adventure', 'Indie', 'RPG']","Sep 20, 2012",19.99,88.0,2012.0
+461,76561197981585225,201810,Wolfenstein: The New Order,545,['Action'],"May 19, 2014",19.99,81.0,2014.0
+462,76561197981585225,203160,Tomb Raider,734,"['Action', 'Adventure']","4 Mar, 2013",89.9,86.0,2013.0
+463,76561197981585225,203750,Binary Domain,0,['Action'],"Apr 27, 2012",14.99,68.0,2012.0
+464,76561197981585225,204530,Infested Planet,95,"['Action', 'Indie', 'Strategy']","Mar 6, 2014",14.99,75.0,2014.0
+465,76561197981585225,205100,Dishonored,216,"['Action', 'Adventure']","Oct 8, 2012",14.99,81.0,2012.0
+466,76561197981585225,206440,To the Moon,21,"['Adventure', 'Indie', 'RPG']","7 Sep, 2012",45.99,81.0,2012.0
+467,76561197981585225,207490,Rayman Origins,25,"['Action', 'Adventure']","Mar 29, 2012",19.99,86.0,2012.0
+468,76561197981585225,207610,The Walking Dead,1740,['Adventure'],"Apr 24, 2012",1.49,82.0,2012.0
+469,76561197981585225,208580,STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™,0,['RPG'],"Aug 23, 2012",9.99,81.0,2012.0
+470,76561197981585225,208650,Batman™: Arkham Knight,2210,"['Action', 'Adventure']","23 Jun, 2015",5.99,86.0,2015.0
+471,76561197981585225,209080,Guns of Icarus Online,236,"['Action', 'Adventure', 'Indie', 'Simulation']","Oct 29, 2012",4.99,64.0,2012.0
+472,76561197981585225,211420,DARK SOULS™: Prepare To Die Edition,47,"['Action', 'RPG']","Aug 24, 2012",14.99,85.0,2012.0
+473,76561197981585225,212680,FTL: Faster Than Light,1484,"['Indie', 'Simulation', 'Strategy']","14 Sep, 2012",3.84,84.0,2012.0
+474,76561197981585225,213670,South Park™: The Stick of Truth™,0,"['Action', 'Adventure', 'RPG']","Mar 3, 2014",29.99,80.5,2014.0
+475,76561197981585225,218620,PAYDAY 2,10805,"['Action', 'RPG']","Aug 13, 2013",4.99,79.0,2013.0
+476,76561197981585225,219640,Chivalry: Medieval Warfare,19,"['Action', 'Indie']","Oct 16, 2012",24.99,79.0,2012.0
+477,76561197981585225,219740,Don't Starve,0,"['Adventure', 'Indie', 'Simulation']","Apr 23, 2013",9.99,79.0,2013.0
+478,76561197981585225,220240,Far Cry® 3,0,"['Action', 'Adventure']","28 Nov, 2012",14.99,88.0,2012.0
+479,76561197981585225,221100,DayZ,1262,"['Action', 'Adventure', 'Massively Multiplayer']","Dec 13, 2018",49.99,85.0,2018.0
+480,76561197981585225,221910,The Stanley Parable,199,"['Adventure', 'Indie']","17 Oct, 2013",23.49,88.0,2013.0
+481,76561197981585225,222480,Resident Evil Revelations,588,"['Action', 'Adventure']","May 20, 2013",19.99,77.0,2013.0
+482,76561197981585225,224260,No More Room in Hell,90,"['Action', 'Indie', 'Free To Play']","Oct 31, 2013",14.99,79.0,2013.0
+483,76561197981585225,224760,FEZ,0,['Indie'],"May 1, 2013",9.99,91.0,2013.0
+484,76561197981585225,225160,Shadow Warrior Classic Redux,0,['Action'],"Jul 8, 2013",9.99,79.0,2013.0
+485,76561197981585225,228280,Baldur's Gate: Enhanced Edition,0,"['Adventure', 'RPG']","Jan 16, 2013",19.99,78.0,2013.0
+486,76561197981585225,230230,Divinity: Original Sin (Classic),284,"['Adventure', 'Indie', 'RPG', 'Strategy']","Jun 30, 2014",19.99,87.0,2014.0
+487,76561197981585225,230410,Warframe,1293,"['Action', 'RPG', 'Free To Play']","Mar 25, 2013",14.99,69.0,2013.0
+488,76561197981585225,233270,Far Cry® 3 Blood Dragon,0,"['Action', 'Adventure']","May 1, 2013",14.99,81.0,2013.0
+489,76561197981585225,233450,Prison Architect,1252,"['Indie', 'Simulation', 'Strategy']","Oct 6, 2015",29.99,83.0,2015.0
+490,76561197981585225,234650,Shadowrun Returns,0,"['Adventure', 'Indie', 'RPG', 'Strategy']","Jul 25, 2013",14.99,76.0,2013.0
+491,76561197981585225,235210,Strider,0,"['Action', 'Adventure']","Feb 19, 2014",14.99,78.0,2014.0
+492,76561197981585225,237930,Transistor,0,"['Action', 'Indie', 'RPG']","May 20, 2014",19.99,83.0,2014.0
+493,76561197981585225,238010,Deus Ex: Human Revolution - Director's Cut,0,"['Action', 'RPG']","Oct 25, 2013",19.99,91.0,2013.0
+494,76561197981585225,238430,Contagion,180,"['Action', 'Adventure', 'Indie']","Oct 25, 2013",9.99,62.0,2013.0
+495,76561197981585225,238960,Path of Exile,8695,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']","Oct 23, 2013",14.99,86.0,2013.0
+496,76561197981585225,239120,Final Fantasy III (3D Remake),0,['RPG'],"May 27, 2014",7.99,68.0,2014.0
+497,76561197981585225,239140,Dying Light,2303,"['Action', 'RPG']","Jan 26, 2015",24.99,87.0,2015.0
+498,76561197981585225,239200,Amnesia: A Machine for Pigs,311,"['Action', 'Adventure', 'Indie']","Sep 10, 2013",19.99,72.0,2013.0
+499,76561197981585225,242920,Banished,461,"['Indie', 'Simulation', 'Strategy']","Feb 18, 2014",19.99,73.0,2014.0
+500,76561197981585225,251150,The Legend of Heroes: Trails in the Sky,16,['RPG'],"Jul 29, 2014",19.99,85.0,2014.0
+501,76561197981585225,252490,Rust,5520,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Feb 8, 2018",39.99,69.0,2018.0
+502,76561197981585225,255710,Cities: Skylines,1237,"['Simulation', 'Strategy']","Mar 10, 2015",29.99,85.0,2015.0
+503,76561197981585225,257350,Baldur's Gate II: Enhanced Edition,159,"['Adventure', 'RPG']","Nov 15, 2013",19.99,78.0,2013.0
+504,76561197981585225,258180,Deus Ex: The Fall,0,"['Action', 'Adventure', 'RPG']","Mar 17, 2014",9.99,45.0,2014.0
+505,76561197981585225,261030,The Walking Dead: Season Two,640,['Adventure'],"Dec 17, 2013",3.74,80.0,2013.0
+506,76561197981585225,261640,Borderlands: The Pre-Sequel,0,"['Action', 'RPG']","Oct 13, 2014",39.99,75.0,2014.0
+507,76561197981585225,262060,Darkest Dungeon®,898,"['Indie', 'RPG', 'Strategy']","Jan 19, 2016",24.99,84.0,2016.0
+508,76561197981585225,264710,Subnautica,2630,"['Adventure', 'Indie']","Jan 23, 2018",29.99,87.0,2018.0
+509,76561197981585225,269210,Hero Siege,32,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Jan 29, 2014",7.99,80.5,2014.0
+510,76561197981585225,275850,No Man's Sky,2747,"['Action', 'Adventure']","Aug 12, 2016",59.99,61.0,2016.0
+511,76561197981585225,282140,SOMA,874,"['Action', 'Adventure', 'Indie']","Sep 21, 2015",29.99,84.0,2015.0
+512,76561197981585225,286160,Tabletop Simulator,956,"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']","Jun 5, 2015",9.99,86.0,2015.0
+513,76561197981585225,287290,Resident Evil Revelations 2,794,"['Action', 'Adventure']","Feb 24, 2015",19.99,86.0,2015.0
+514,76561197981585225,291650,Pillars of Eternity,2552,['RPG'],"Mar 26, 2015",39.99,89.0,2015.0
+515,76561197981585225,292030,The Witcher 3: Wild Hunt,392,['RPG'],"May 18, 2015",39.99,93.0,2015.0
+516,76561197981585225,292120,FINAL FANTASY XIII,2938,['RPG'],"Oct 9, 2014",6.39,80.5,2014.0
+517,76561197981585225,295110,Just Survive,92,"['Action', 'Adventure', 'Massively Multiplayer']","Jan 15, 2015",19.99,86.0,2015.0
+518,76561197981585225,298110,Far Cry 4,0,"['Action', 'Adventure']","17 Nov, 2014",19.99,80.0,2014.0
+519,76561197981585225,304050,Trove,81,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']","Jul 9, 2015",19.99,86.0,2015.0
+520,76561197981585225,304240,Resident Evil,900,"['Action', 'Adventure']","Jan 19, 2015",19.99,82.0,2015.0
+521,76561197981585225,306130,The Elder Scrolls Online,2835,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']","May 22, 2017",19.99,80.0,2017.0
+522,76561197981585225,312750,Final Fantasy IV (3D Remake),0,['RPG'],"17 Sep, 2014",8.99,80.5,2014.0
+523,76561197981585225,322330,Don't Starve Together,2953,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']","Apr 21, 2016",14.99,83.0,2016.0
+524,76561197981585225,329050,Devil May Cry 4 Special Edition,0,['Action'],"Jun 23, 2015",24.99,86.0,2015.0
+525,76561197981585225,337000,Deus Ex: Mankind Divided™,0,"['Action', 'RPG']","Aug 23, 2016",29.99,83.0,2016.0
+526,76561197981585225,339340,Resident Evil 0,619,"['Action', 'Adventure']","Jan 19, 2016",19.99,84.0,2016.0
+527,76561197981585225,346110,ARK: Survival Evolved,213,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Aug 27, 2017",14.99,70.0,2017.0
+528,76561197981585225,346830,FINAL FANTASY IV: THE AFTER YEARS,0,['RPG'],"May 11, 2015",7.99,86.0,2015.0
+529,76561197981585225,350080,Wolfenstein: The Old Blood ,309,['Action'],"May 4, 2015",19.99,76.0,2015.0
+530,76561197981585225,351970,Tales of Zestiria,0,['RPG'],"Oct 19, 2015",4.99,77.0,2015.0
+531,76561197981585225,359870,FINAL FANTASY X/X-2 HD Remaster,4975,['RPG'],"May 12, 2016",11.99,84.0,2016.0
+532,76561197981585225,362300,Just Survive Test Server,0,['Massively Multiplayer'],"Apr 16, 2015",19.99,86.0,2015.0
+533,76561197981585225,362890,Black Mesa,1141,"['Action', 'Adventure', 'Indie']","Mar 6, 2020",19.99,84.0,2020.0
+534,76561197981585225,362960,Tyranny,0,"['Adventure', 'RPG']","Nov 10, 2016",29.99,80.0,2016.0
+535,76561197981585225,363440,Mega Man Legacy Collection,830,['Action'],"Aug 24, 2015",14.99,85.0,2015.0
+536,76561197981585225,367500,Dragon's Dogma: Dark Arisen,0,"['Action', 'Adventure', 'RPG']","Jan 15, 2016",29.99,81.0,2016.0
+537,76561197981585225,367520,Hollow Knight,137,"['Action', 'Adventure', 'Indie']","Feb 24, 2017",14.99,87.0,2017.0
+538,76561197981585225,371660,Far Cry Primal,0,"['Action', 'Adventure']","Feb 29, 2016",29.99,74.0,2016.0
+539,76561197981585225,372000,Tree of Savior (English Ver.),11484,"['Massively Multiplayer', 'RPG', 'Free To Play']","Mar 28, 2016",19.99,84.0,2016.0
+540,76561197981585225,372360,Tales of Symphonia,2845,['RPG'],"Feb 1, 2016",4.99,84.0,2016.0
+541,76561197981585225,373420,Divinity: Original Sin Enhanced Edition,4567,"['Adventure', 'Indie', 'RPG', 'Strategy']","Oct 27, 2015",39.99,94.0,2015.0
+542,76561197981585225,376570,WildStar,713,"['Free To Play', 'Massively Multiplayer', 'RPG']","Jun 9, 2016",19.99,82.0,2016.0
+543,76561197981585225,377160,Fallout 4,4258,['RPG'],"Nov 9, 2015",4.99,84.0,2015.0
+544,76561197981585225,377840,FINAL FANTASY IX,7817,['RPG'],"14 Apr, 2016",9.59,84.0,2016.0
+545,76561197981585225,379720,DOOM,589,['Action'],"May 12, 2016",19.99,85.0,2016.0
+546,76561197981585225,381210,Dead by Daylight,146503,['Action'],"Jun 14, 2016",7.99,84.0,2016.0
+547,76561197981585225,382890,FINAL FANTASY V,0,['RPG'],"Sep 24, 2015",19.99,86.0,2015.0
+548,76561197981585225,382900,FINAL FANTASY VI,3925,['RPG'],"Dec 16, 2015",19.99,86.0,2015.0
+549,76561197981585225,391220,Rise of the Tomb Raider,918,"['Action', 'Adventure']","Feb 9, 2016",29.99,86.0,2016.0
+550,76561197981585225,391540,Undertale,0,"['Indie', 'RPG']","Sep 15, 2015",2.49,92.0,2015.0
+551,76561197981585225,407530,ARK: Survival Of The Fittest,0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']","Aug 29, 2017",19.99,82.0,2017.0
+552,76561197981585225,409720,BioShock 2 Remastered,0,"['Action', 'RPG']","Sep 15, 2016",19.99,84.0,2016.0
+553,76561197981585225,413150,Stardew Valley,3442,"['Indie', 'RPG', 'Simulation']","Feb 26, 2016",14.99,89.0,2016.0
+554,76561197981585225,418370,Resident Evil 7 Biohazard,819,"['Action', 'Adventure']","23 Jan, 2017",19.99,83.0,2017.0
+555,76561197981585225,429660,Tales of Berseria,0,"['Action', 'RPG']","Jan 26, 2017",49.99,80.0,2017.0
+556,76561197981585225,431960,Wallpaper Engine,25,"['Casual', 'Indie', 'Animation & Modeling', 'Design & Illustration', 'Photo Editing', 'Utilities']","16 Nov, 2018",19.99,85.0,2018.0
+557,76561197981585225,433850,Z1 Battle Royale,0,"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer']","Feb 28, 2018",19.99,70.0,2018.0
+558,76561197981585225,439700,H1Z1: Test Server,0,['Massively Multiplayer'],"Feb 24, 2016",19.99,84.0,2016.0
+559,76561197981585225,460790,Bayonetta,0,"['Action', 'Adventure']","Apr 11, 2017",19.99,90.0,2017.0
+560,76561197981585225,476600,Call of Duty: WWII,0,['Action'],"Nov 2, 2017",59.99,82.0,2017.0
+561,76561197981585225,476620,Call of Duty: WWII - Multiplayer,0,['Action'],"Nov 2, 2017",59.99,82.0,2017.0
+562,76561197981585225,482400,System Shock,1722,"['Action', 'Adventure']","May 30, 2023",39.99,83.0,2023.0
+563,76561197981585225,493340,Planet Coaster,1261,"['Action', 'Adventure', 'Casual', 'Simulation', 'Strategy']","Nov 17, 2016",44.99,84.0,2016.0
+564,76561197981585225,543460,Dead Rising 4,0,['Action'],"Mar 14, 2017",29.99,74.0,2017.0
+565,76561197981585225,548430,Deep Rock Galactic,1945,['Action'],"May 13, 2020",8.99,85.0,2020.0
+566,76561197981585225,552500,Warhammer: Vermintide 2,0,"['Action', 'Indie', 'RPG']","Mar 8, 2018",5.99,82.0,2018.0
+567,76561197981585225,553850,HELLDIVERS™ 2,303,['Action'],"Feb 8, 2024",39.99,88.5,2024.0
+568,76561197981585225,578080,PUBG: BATTLEGROUNDS,3626,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']","Dec 21, 2017",19.99,82.0,2017.0
+569,76561197981585225,582160,Assassin's Creed Origins,2169,"['Action', 'Adventure', 'RPG']","26 Oct, 2017",19.99,82.0,2017.0
+570,76561197981585225,582660,Black Desert,0,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy']","May 24, 2017",9.99,80.0,2017.0
+571,76561197981585225,586200,Street Fighter 30th Anniversary Collection,0,['Action'],"May 29, 2018",29.99,85.0,2018.0
+572,76561197981585225,608800,Guns of Icarus Alliance,236,"['Action', 'Adventure', 'Indie', 'Simulation']","Mar 31, 2017",4.99,82.0,2017.0
+573,76561197981585225,611360,Video Horror Society,894,"['Action', 'Free To Play', 'Indie', 'Early Access']","Jul 18, 2022",44.99,86.0,2022.0
+574,76561197981585225,612880,Wolfenstein II: The New Colossus,679,['Action'],"Oct 26, 2017",39.99,86.0,2017.0
+575,76561197981585225,637650,FINAL FANTASY XV WINDOWS EDITION,0,['RPG'],"6 Mar, 2018",18.39,85.0,2018.0
+576,76561197981585225,648800,Raft,1985,"['Adventure', 'Indie', 'Simulation']","Jun 20, 2022",19.99,86.0,2022.0
+577,76561197981585225,731490,Crash Bandicoot™ N. Sane Trilogy,0,['Action'],"Jun 29, 2018",39.99,85.0,2018.0
+578,76561197981585225,738540,Tales of Vesperia: Definitive Edition,33,['RPG'],"Jan 10, 2019",9.99,80.0,2019.0
+579,76561197981585225,739630,Phasmophobia,696,"['Action', 'Indie', 'Early Access']","18 Sep, 2020",13.99,85.5,2020.0
+580,76561197981585225,740130,Tales of Arise,0,"['Action', 'RPG']","Sep 9, 2021",39.99,84.0,2021.0
+581,76561197981585225,742300,Mega Man 11,0,['Action'],"Oct 2, 2018",29.99,85.0,2018.0
+582,76561197981585225,743890,Mega Man X Legacy Collection,0,['Action'],"Jul 24, 2018",19.99,85.0,2018.0
+583,76561197981585225,750920,Shadow of the Tomb Raider,1283,"['Action', 'Adventure']","Sep 14, 2018",39.99,77.0,2018.0
+584,76561197981585225,753640,Outer Wilds,156,"['Action', 'Adventure']","18 Jun, 2020",32.99,85.0,2020.0
+585,76561197981585225,782330,DOOM Eternal,250,['Action'],"Mar 19, 2020",39.99,88.0,2020.0
+586,76561197981585225,812140,Assassin's Creed Odyssey,4830,"['Action', 'Adventure', 'RPG']","Oct 5, 2018",59.99,85.0,2018.0
+587,76561197981585225,813780,Age of Empires II: Definitive Edition,220,['Strategy'],"Nov 14, 2019",34.99,84.0,2019.0
+588,76561197981585225,813820,Realm Royale Reforged,108,"['Action', 'Free To Play', 'Early Access']","Jun 5, 2018",19.99,85.0,2018.0
+589,76561197981585225,848450,Subnautica: Below Zero,2169,"['Adventure', 'Indie']","13 May, 2021",29.99,84.0,2021.0
+590,76561197981585225,883710,Resident Evil 2,1048,['Action'],"Jan 24, 2019",39.99,89.0,2019.0
+591,76561197981585225,892970,Valheim,737,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']","Feb 2, 2021",9.99,84.0,2021.0
+592,76561197981585225,945360,Among Us,112,['Casual'],"Nov 16, 2018",4.99,85.0,2018.0
+593,76561197981585225,952060,Resident Evil 3,881,['Action'],"Apr 2, 2020",39.99,77.0,2020.0
+594,76561197981585225,976730,Halo: The Master Chief Collection,2256,['Action'],"3 Dec, 2019",49.99,81.0,2019.0
+595,76561197981585225,990080,Hogwarts Legacy,0,"['Action', 'Adventure', 'RPG']","Feb 10, 2023",59.99,83.0,2023.0
+596,76561197981585225,996580,Spyro™ Reignited Trilogy,1343,"['Action', 'Adventure']","Sep 3, 2019",39.99,81.0,2019.0
+597,76561197981585225,997070,Marvel's Avengers - The Definitive Edition,0,"['Action', 'Adventure', 'RPG']","4 Sep, 2020",19.99,85.5,2020.0
+598,76561197981585225,1004640,FINAL FANTASY TACTICS - The Ivalice Chronicles,511,"['RPG', 'Strategy']","Sep 30, 2025",39.99,87.0,2025.0
+599,76561197981585225,1026680,FINAL FANTASY VIII - REMASTERED,0,"['Adventure', 'RPG']","3 Sep, 2019",9.99,81.0,2019.0
+600,76561197981585225,1034860,GRANDIA HD Remaster,0,"['Adventure', 'RPG']","Oct 15, 2019",19.99,81.0,2019.0
+601,76561197981585225,1086940,Baldur's Gate 3,6735,"['Adventure', 'RPG', 'Strategy']","Aug 3, 2023",59.99,96.0,2023.0
+602,76561197981585225,1091500,Cyberpunk 2077,3027,['RPG'],"9 Dec, 2020",19.99,86.0,2020.0
+603,76561197981585225,1113000,Persona 4 Golden,6491,['RPG'],"13 Jun, 2020",27.99,87.0,2020.0
+604,76561197981585225,1121560,Atelier Ryza: Ever Darkness & the Secret Hideout,51,['RPG'],"28 Oct, 2019",29.99,75.0,2019.0
+605,76561197981585225,1133760,CHRONO CROSS: THE RADICAL DREAMERS EDITION,2356,"['Adventure', 'RPG']","7 Apr, 2022",10.79,86.0,2022.0
+606,76561197981585225,1151340,Fallout 76,2712,['RPG'],"Apr 14, 2020",7.99,85.5,2020.0
+607,76561197981585225,1151640,Horizon Zero Dawn™ Complete Edition,0,"['Action', 'Adventure', 'RPG']","Aug 7, 2020",19.99,85.5,2020.0
+608,76561197981585225,1172380,STAR WARS Jedi: Fallen Order™ ,0,"['Action', 'Adventure']","Nov 14, 2019",3.19,81.0,2019.0
+609,76561197981585225,1190460,DEATH STRANDING,0,"['Action', 'Adventure']","Jul 14, 2020",19.99,86.0,2020.0
+610,76561197981585225,1196590,Resident Evil Village,1323,['Action'],"6 May, 2021",22.79,83.0,2021.0
+611,76561197981585225,1229240,Chained Echoes,2982,"['Indie', 'RPG']","Dec 8, 2022",24.99,91.0,2022.0
+612,76561197981585225,1235140,Yakuza: Like a Dragon,0,"['Action', 'Adventure', 'RPG']","10 Nov, 2020",19.99,83.0,2020.0
+613,76561197981585225,1236300,Resident Evil Re:Verse,0,['Action'],"Oct 20, 2022",44.99,86.0,2022.0
+614,76561197981585225,1259420,Days Gone,734,"['Action', 'Adventure']","May 17, 2021",39.99,84.0,2021.0
+615,76561197981585225,1272080,PAYDAY 3,5619,"['Action', 'Adventure', 'RPG']","Sep 21, 2023",29.99,66.0,2023.0
+616,76561197981585225,1286830,STAR WARS™: The Old Republic™,540,"['Massively Multiplayer', 'RPG', 'Free To Play']","Jul 21, 2020",19.99,85.0,2020.0
+617,76561197981585225,1556100,Killer Klowns From Outer Space: The Game,1780,['Action'],"Jun 4, 2024",39.99,88.5,2024.0
+618,76561197981585225,1599340,Lost Ark,333,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']","Feb 11, 2022",44.99,86.0,2022.0
+619,76561197981585225,1608070,CRISIS CORE –FINAL FANTASY VII– REUNION,3697,"['Action', 'RPG']","Dec 13, 2022",19.99,86.0,2022.0
+620,76561197981585225,1794680,Vampire Survivors,11596,"['Action', 'Casual', 'Indie', 'RPG']","Oct 20, 2022",4.99,86.0,2022.0
+621,76561197981585225,1809700,Persona 3 Portable,0,"['Adventure', 'RPG', 'Strategy']","Jan 18, 2023",19.99,81.0,2023.0
+622,76561197981585225,1850570,DEATH STRANDING DIRECTOR'S CUT,3952,"['Action', 'Adventure']","Mar 30, 2022",39.99,85.0,2022.0
+623,76561197981585225,1868140,DAVE THE DIVER,61,"['Adventure', 'Casual', 'RPG', 'Simulation']","Jun 28, 2023",19.99,90.0,2023.0
+624,76561197981585225,1932640,Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars,0,['RPG'],"Mar 6, 2025",49.99,82.0,2025.0
+625,76561197981585225,1934680,Age of Mythology: Retold,21,['Strategy'],"Sep 4, 2024",29.99,83.0,2024.0
+626,76561197981585225,1966720,Lethal Company,335,"['Action', 'Adventure', 'Indie', 'Early Access']","Oct 23, 2023",9.99,83.0,2023.0
+627,76561197981585225,2005010,"Warhammer 40,000: Boltgun",191,"['Action', 'Indie']","May 23, 2023",21.99,75.0,2023.0
+628,76561197981585225,2050650,Resident Evil 4,2204,"['Action', 'Adventure']","23 Mar, 2023",29.99,91.0,2023.0
+629,76561197981585225,2062430,BALL x PIT,1314,"['Action', 'Indie']","Oct 15, 2025",11.99,87.0,2025.0
+630,76561197981585225,2066020,Soulstone Survivors,1282,"['Action', 'Indie', 'RPG']","17 Jun, 2025",67.99,87.0,2025.0
+631,76561197981585225,2124490,SILENT HILL 2,1448,"['Action', 'Adventure']","7 Oct, 2024",31.740000000000002,88.5,2024.0
+632,76561197981585225,2208920,Assassin's Creed Valhalla,5728,"['Action', 'Adventure', 'RPG']","Dec 6, 2022",59.99,86.0,2022.0
+633,76561197981585225,2218750,Halls of Torment,1848,"['Action', 'Indie', 'RPG']","Sep 24, 2024",4.99,88.0,2024.0
+634,76561197981585225,2321470,Deep Rock Galactic: Survivor,1848,['Action'],"Sep 17, 2025",9.09,87.0,2025.0
+635,76561197981585225,2379780,Balatro,1805,"['Casual', 'Indie', 'Strategy']","Feb 20, 2024",14.99,90.0,2024.0
+636,76561197981585225,2767030,Marvel Rivals,60,"['Action', 'Free To Play']","Dec 5, 2024",31.740000000000002,88.5,2024.0
+637,76561197981585225,3405340,Megabonk,4548,"['Action', 'Casual', 'Indie']","18 Sep, 2025",12.99,87.0,2025.0
+638,76561198966107809,39210,FINAL FANTASY XIV Online,1877,"['Massively Multiplayer', 'RPG']","18 Feb, 2014",19.99,80.5,2014.0
+639,76561198966107809,306130,The Elder Scrolls Online,1356,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']","May 22, 2017",19.99,82.0,2017.0
+640,76561198966107809,359550,Tom Clancy's Rainbow Six® Siege X,127,"['Action', 'Free To Play']","1 Dec, 2015",19.99,86.0,2015.0
+641,76561198966107809,553850,HELLDIVERS™ 2,132,['Action'],"Feb 8, 2024",31.740000000000002,88.5,2024.0
+642,76561198966107809,775500,SCARLET NEXUS,72,"['Action', 'Adventure', 'RPG']","24 Jun, 2021",22.79,78.0,2021.0
+643,76561198966107809,945360,Among Us,520,['Casual'],"16 Nov, 2018",19.99,85.0,2018.0
+644,76561198966107809,990080,Hogwarts Legacy,767,"['Action', 'Adventure', 'RPG']","10 Feb, 2023",29.99,83.0,2023.0
+645,76561198966107809,1240440,Halo Infinite,280,"['Action', 'Free To Play']","15 Nov, 2021",22.79,84.0,2021.0
+646,76561198966107809,1245620,ELDEN RING,3325,"['Action', 'RPG']","24 Feb, 2022",44.99,94.0,2022.0
+647,76561198966107809,1374490,RuneScape: Dragonwilds,1751,"['Action', 'Adventure', 'RPG', 'Early Access']","Apr 15, 2025",29.99,87.0,2025.0
+649,76561198966107809,1426210,It Takes Two,238,"['Action', 'Adventure']","25 Mar, 2021",22.79,89.0,2021.0
+650,76561198966107809,1623730,Palworld,314,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']","18 Jan, 2024",31.740000000000002,88.5,2024.0
+651,76561198966107809,1774580,STAR WARS Jedi: Survivor™,585,"['Action', 'Adventure']","Apr 27, 2023",8.39,83.0,2023.0
+652,76561198966107809,2001120,Split Fiction,634,"['Action', 'Adventure']","6 Mar, 2025",42.99,87.0,2025.0
+653,76561198966107809,2352620,Fellowship,240,"['RPG', 'Early Access']","Oct 16, 2025",42.99,87.0,2025.0
+654,76561198966107809,2623190,The Elder Scrolls IV: Oblivion Remastered,752,['RPG'],"22 Apr, 2025",66.99,87.0,2025.0
+655,76561198966107809,2707930,Palia,2669,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Free To Play']","25 Mar, 2024",31.740000000000002,88.5,2024.0
+656,76561198966107809,2767030,Marvel Rivals,1198,"['Action', 'Free To Play']","Dec 5, 2024",31.740000000000002,88.5,2024.0
+657,76561198966107809,3241660,R.E.P.O.,528,"['Action', 'Early Access']","Feb 26, 2025",9.99,87.0,2025.0
+658,76561197963596100,30,Day of Defeat,37,['Action'],"May 1, 2003",4.99,79.0,2003.0
+659,76561197963596100,40,Deathmatch Classic,0,['Action'],"Jun 1, 2001",4.99,71.0,2001.0
+662,76561197963596100,130,Half-Life: Blue Shift,0,['Action'],"Jun 1, 2001",4.99,71.0,2001.0
+663,76561197963596100,220,Half-Life 2,1594,['Action'],"Nov 16, 2004",9.99,96.0,2004.0
+664,76561197963596100,240,Counter-Strike: Source,13852,['Action'],"Nov 1, 2004",9.99,92.0,2004.0
+665,76561197963596100,300,Day of Defeat: Source,2092,['Action'],"Jul 12, 2010",14.99,84.0,2010.0
+666,76561197963596100,320,Half-Life 2: Deathmatch,0,['Action'],"1 Nov, 2004",9.99,92.0,2004.0
+667,76561197963596100,360,Half-Life Deathmatch: Source,0,['Action'],"1 May, 2006",19.99,91.5,2006.0
+668,76561197963596100,440,Team Fortress 2,79885,"['Action', 'Free To Play']","Oct 10, 2007",9.99,88.5,2007.0
+669,76561197963596100,550,Left 4 Dead 2,1521,['Action'],"Nov 16, 2009",9.99,89.0,2009.0
+670,76561197963596100,570,Dota 2,301381,"['Action', 'Strategy', 'Free To Play']","Jul 9, 2013",14.99,79.0,2013.0
+671,76561197963596100,620,Portal 2,1638,"['Action', 'Adventure']","Apr 18, 2011",9.99,95.0,2011.0
+672,76561197963596100,730,Counter-Strike 2,274846,"['Action', 'Free To Play']","Aug 21, 2012",14.99,81.0,2012.0
+673,76561197963596100,1250,Killing Floor,1172,['Action'],"May 14, 2009",9.99,85.0,2009.0
+674,76561197963596100,1530,Multiwinia,0,['Indie'],"19 Sep, 2008",11.79,76.0,2008.0
+675,76561197963596100,2280,DOOM + DOOM II,0,['Action'],"3 Aug, 2007",12.99,88.5,2007.0
+676,76561197963596100,2310,Quake,547,['Action'],"Aug 3, 2007",9.99,88.5,2007.0
+677,76561197963596100,3910,Sid Meier's Civilization III: Complete,1,['Strategy'],"25 Oct, 2006",19.99,90.0,2006.0
+678,76561197963596100,4000,Garry's Mod,4048,"['Casual', 'Indie', 'Simulation']","Nov 29, 2006",19.99,91.5,2006.0
+679,76561197963596100,4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,21,"['Action', 'RPG']","Mar 20, 2007",9.99,88.5,2007.0
+680,76561197963596100,4560,Company of Heroes - Legacy Edition,24,"['Action', 'Strategy']","Jul 17, 2007",9.99,88.5,2007.0
+681,76561197963596100,4760,Rome: Total War,583,['Strategy'],"Aug 28, 2007",9.99,88.5,2007.0
+682,76561197963596100,6910,Deus Ex: Game of the Year Edition,786,['Action'],"Mar 29, 2007",9.99,88.5,2007.0
+683,76561197963596100,8190,Just Cause 2,199,"['Action', 'Adventure']","23 Mar, 2010",14.99,84.0,2010.0
+684,76561197963596100,8930,Sid Meier's Civilization V,2265,['Strategy'],"Sep 21, 2010",14.99,84.0,2010.0
+685,76561197963596100,8980,Borderlands GOTY,1127,"['Action', 'RPG']","Aug 31, 2023",29.99,83.0,2023.0
+686,76561197963596100,9050,DOOM 3,17,['Action'],"Aug 3, 2007",9.99,88.5,2007.0
+687,76561197963596100,9070,DOOM 3: Resurrection of Evil,0,['Action'],"Aug 3, 2007",9.99,88.5,2007.0
+688,76561197963596100,9340,Company of Heroes: Opposing Fronts,0,"['Action', 'Strategy']","Sep 24, 2007",9.99,88.5,2007.0
+689,76561197963596100,12120,Grand Theft Auto: San Andreas,511,['Action'],"4 Jan, 2008",9.99,93.0,2008.0
+690,76561197963596100,12210,Grand Theft Auto IV: The Complete Edition,271,"['Action', 'Adventure']","Mar 24, 2020",19.99,85.5,2020.0
+691,76561197963596100,12250,Grand Theft Auto: San Andreas,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+692,76561197963596100,12900,Audiosurf,2287,['Indie'],"Feb 15, 2008",9.99,86.0,2008.0
+693,76561197963596100,15700,Oddworld: Abe's Oddysee,0,['Adventure'],"Aug 28, 2008",9.99,86.0,2008.0
+694,76561197963596100,17080,Tribes: Ascend,197,"['Action', 'Free To Play']","Jun 27, 2012",14.99,81.0,2012.0
+695,76561197963596100,17300,Crysis,76,['Action'],"Sep 17, 2008",9.99,86.0,2008.0
+696,76561197963596100,17410,Mirror's Edge,429,"['Action', 'Adventure']","14 Jan, 2009",9.99,81.0,2009.0
+697,76561197963596100,20540,Company of Heroes: Tales of Valor,0,['Strategy'],"Apr 8, 2009",9.99,85.0,2009.0
+698,76561197963596100,20900,The Witcher: Enhanced Edition,3182,"['Action', 'RPG']","16 Sep, 2008",9.99,86.0,2008.0
+699,76561197963596100,20920,The Witcher 2: Assassins of Kings Enhanced Edition,2780,['RPG'],"Apr 16, 2012",14.99,81.0,2012.0
+700,76561197963596100,22320,The Elder Scrolls III: Morrowind,276,['RPG'],"Jun 16, 2009",9.99,85.0,2009.0
+701,76561197963596100,22370,Fallout 3 - Game of the Year Edition,963,['RPG'],"Dec 17, 2009",4.99,91.0,2009.0
+702,76561197963596100,22380,Fallout: New Vegas,5719,"['Action', 'RPG']","19 Oct, 2010",1.49,84.0,2010.0
+703,76561197963596100,24960,Battlefield: Bad Company™ 2,4448,['Action'],"Mar 2, 2010",14.99,84.0,2010.0
+704,76561197963596100,26800,Braid,24,"['Casual', 'Indie', 'Strategy']","Apr 10, 2009",9.99,85.0,2009.0
+705,76561197963596100,33930,Arma 2: Operation Arrowhead,8,"['Action', 'Simulation', 'Strategy']","Jun 29, 2010",14.99,84.0,2010.0
+706,76561197963596100,34010,Alpha Protocol,513,"['Action', 'RPG']","1 Jun, 2010",26.99,73.0,2010.0
+707,76561197963596100,34270,SEGA Mega Drive & Genesis Classics,25,"['Action', 'Adventure', 'Casual', 'RPG']","Jun 1, 2010",14.99,84.0,2010.0
+708,76561197963596100,35420,Killing Floor Mod: Defence Alliance 2,0,['Action'],"Dec 11, 2009",9.99,85.0,2009.0
+709,76561197963596100,35450,Rising Storm/Red Orchestra 2 Multiplayer,1203,"['Action', 'Massively Multiplayer', 'Simulation']","Sep 13, 2011",9.99,84.0,2011.0
+710,76561197963596100,38400,Fallout,598,['RPG'],"Nov 1, 2015",2.49,89.0,2015.0
+711,76561197963596100,39210,FINAL FANTASY XIV Online,36159,"['Massively Multiplayer', 'RPG']","18 Feb, 2014",19.99,83.0,2014.0
+712,76561197963596100,40800,Super Meat Boy,735,['Indie'],"Nov 30, 2010",14.99,87.0,2010.0
+713,76561197963596100,41700,S.T.A.L.K.E.R.: Call of Pripyat,373,"['Action', 'RPG']","Feb 11, 2010",14.99,84.0,2010.0
+714,76561197963596100,43110,Metro 2033,260,['Action'],"Mar 16, 2010",14.99,84.0,2010.0
+715,76561197963596100,48190,Assassin's Creed Brotherhood,289,"['Action', 'Adventure']","17 Mar, 2011",9.99,88.0,2011.0
+716,76561197963596100,48700,Mount & Blade: Warband,730,"['Action', 'RPG']","Mar 31, 2010",19.99,78.0,2010.0
+717,76561197963596100,49520,Borderlands 2,2531,"['Action', 'RPG']","Sep 17, 2012",14.99,81.0,2012.0
+718,76561197963596100,50620,Darksiders,1308,"['Action', 'Adventure']","Sep 23, 2010",14.99,84.0,2010.0
+719,76561197963596100,55110,Red Faction: Armageddon,0,['Action'],"Jun 6, 2011",9.99,84.0,2011.0
+720,76561197963596100,55230,Saints Row: The Third,1025,['Action'],"Nov 14, 2011",9.99,84.0,2011.0
+721,76561197963596100,57300,Amnesia: The Dark Descent,1708,"['Action', 'Adventure', 'Indie']","Sep 8, 2010",14.99,84.0,2010.0
+722,76561197963596100,57690,Tropico 4,327,"['Simulation', 'Strategy']","Sep 1, 2011",9.99,84.0,2011.0
+723,76561197963596100,65800,Dungeon Defenders,1029,"['Action', 'Indie', 'RPG', 'Strategy']","Oct 18, 2011",9.99,84.0,2011.0
+724,76561197963596100,72200,Universe Sandbox Legacy,725,"['Casual', 'Indie', 'Simulation']","Apr 29, 2011",9.99,84.0,2011.0
+725,76561197963596100,72850,The Elder Scrolls V: Skyrim,3237,['RPG'],"Nov 10, 2011",9.99,84.0,2011.0
+726,76561197963596100,105600,Terraria,985,"['Action', 'Adventure', 'Indie', 'RPG']","May 16, 2011",9.99,83.0,2011.0
+727,76561197963596100,107100,Bastion,222,"['Action', 'Indie', 'RPG']","Aug 16, 2011",9.99,84.0,2011.0
+728,76561197963596100,113200,The Binding of Isaac,294,"['Action', 'Adventure', 'Indie', 'RPG']","28 Sep, 2011",9.99,84.0,2011.0
+729,76561197963596100,200510,XCOM: Enemy Unknown,1625,['Strategy'],"Oct 8, 2012",14.99,81.0,2012.0
+730,76561197963596100,200710,Torchlight II,1071,"['Action', 'Adventure', 'Indie', 'RPG']","Sep 20, 2012",14.99,81.0,2012.0
+731,76561197963596100,201810,Wolfenstein: The New Order,650,['Action'],"May 19, 2014",19.99,81.0,2014.0
+732,76561197963596100,202200,Galactic Civilizations II: Ultimate Edition,3,"['Indie', 'Strategy']","Dec 2, 2011",4.99,92.0,2011.0
+733,76561197963596100,202970,Call of Duty: Black Ops II,138,['Action'],"Nov 12, 2012",59.99,74.0,2012.0
+734,76561197963596100,202990,Call of Duty: Black Ops II - Multiplayer,10738,['Action'],12 nov. 2012,59.99,74.0,2012.0
+735,76561197963596100,203140,Hitman: Absolution,828,['Action'],"19 Nov, 2012",14.99,79.0,2012.0
+736,76561197963596100,203160,Tomb Raider,807,"['Action', 'Adventure']","4 Mar, 2013",89.9,86.0,2013.0
+737,76561197963596100,203630,Warlock - Master of the Arcane,174,['Strategy'],"May 8, 2012",24.99,71.0,2012.0
+738,76561197963596100,203650,SONIC THE HEDGEHOG 4 Episode II,0,['Adventure'],"May 15, 2012",9.99,54.0,2012.0
+739,76561197963596100,203750,Binary Domain,35,['Action'],"Apr 27, 2012",14.99,68.0,2012.0
+740,76561197963596100,204100,Max Payne 3,68,['Action'],"May 31, 2012",5.99,87.0,2012.0
+741,76561197963596100,204220,Snapshot,0,"['Adventure', 'Casual', 'Indie']","Aug 30, 2012",9.99,74.0,2012.0
+742,76561197963596100,204360,Castle Crashers,306,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']","Sep 26, 2012",14.99,81.0,2012.0
+743,76561197963596100,205100,Dishonored,411,"['Action', 'Adventure']","Oct 8, 2012",9.99,91.0,2012.0
+744,76561197963596100,207080,Indie Game: The Movie,77,['Indie'],"Jun 12, 2012",9.99,81.0,2012.0
+745,76561197963596100,207150,Stellar Impact,275,"['Action', 'Indie', 'Strategy']","Apr 12, 2012",14.99,74.0,2012.0
+746,76561197963596100,207490,Rayman Origins,0,"['Action', 'Adventure']","Mar 29, 2012",19.99,86.0,2012.0
+747,76561197963596100,207610,The Walking Dead,2173,['Adventure'],"Apr 24, 2012",1.49,82.0,2012.0
+748,76561197963596100,208140,ENDLESS™ Space - Definitive Edition,8,['Strategy'],"Jul 4, 2012",2.49,77.0,2012.0
+749,76561197963596100,208200,DOOM 3: BFG Edition,0,['Action'],"Oct 15, 2012",9.99,81.0,2012.0
+750,76561197963596100,208580,STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™,701,['RPG'],"Aug 23, 2012",9.99,81.0,2012.0
+751,76561197963596100,208650,Batman™: Arkham Knight,1019,"['Action', 'Adventure']","Jun 23, 2015",3.99,86.0,2015.0
+752,76561197963596100,211360,Offspring Fling!,584,"['Adventure', 'Indie']","May 11, 2012",7.99,79.0,2012.0
+753,76561197963596100,211400,Deadlight,177,"['Action', 'Adventure', 'Indie']","Oct 25, 2012",3.74,78.0,2012.0
+754,76561197963596100,212480,Sonic & All-Stars Racing Transformed Collection,284,"['Racing', 'Sports']","Jan 31, 2013",19.99,79.0,2013.0
+755,76561197963596100,212680,FTL: Faster Than Light,846,"['Indie', 'Simulation', 'Strategy']","Sep 14, 2012",3.49,84.0,2012.0
+756,76561197963596100,213850,Magic 2014 ,102,['Strategy'],"Jun 26, 2013",14.99,79.0,2013.0
+757,76561197963596100,214490,Alien: Isolation,1792,['Action'],"Oct 6, 2014",39.99,81.0,2014.0
+758,76561197963596100,214510,LEGO® The Lord of the Rings™,1124,"['Action', 'Adventure']","Nov 27, 2012",19.99,80.0,2012.0
+759,76561197963596100,214790,The Basement Collection,0,"['Adventure', 'Indie', 'Strategy']","Aug 31, 2012",3.99,81.0,2012.0
+760,76561197963596100,215530,The Incredible Adventures of Van Helsing,59,"['Action', 'Adventure', 'Indie', 'RPG']","May 22, 2013",14.99,72.0,2013.0
+761,76561197963596100,218620,PAYDAY 2,199,"['Action', 'RPG']","Aug 13, 2013",4.99,79.0,2013.0
+762,76561197963596100,218680,Scribblenauts Unlimited,1096,"['Adventure', 'Casual', 'Strategy']","Nov 19, 2012",19.99,75.0,2012.0
+763,76561197963596100,219640,Chivalry: Medieval Warfare,271,"['Action', 'Indie']","Oct 16, 2012",24.99,79.0,2012.0
+764,76561197963596100,219780,Divinity II: Developer's Cut,76,['RPG'],"Oct 29, 2012",19.99,81.0,2012.0
+765,76561197963596100,219990,Grim Dawn,74,"['Action', 'Adventure', 'Indie', 'RPG']","Feb 25, 2016",24.99,83.0,2016.0
+766,76561197963596100,220200,Kerbal Space Program,392,"['Indie', 'Simulation']","Apr 27, 2015",39.99,88.0,2015.0
+767,76561197963596100,220240,Far Cry® 3,272,"['Action', 'Adventure']","28 Nov, 2012",14.99,88.0,2012.0
+768,76561197963596100,221180,Eufloria HD,0,"['Indie', 'Strategy']","Oct 14, 2014",14.99,80.5,2014.0
+769,76561197963596100,221380,Age of Empires II (2013),550,['Strategy'],"Apr 9, 2013",19.99,68.0,2013.0
+770,76561197963596100,224500,Gnomoria,204,"['Indie', 'Simulation', 'Strategy']","Feb 23, 2016",14.99,84.0,2016.0
+771,76561197963596100,225080,Brothers - A Tale of Two Sons,0,"['Action', 'Adventure', 'Indie']","Sep 3, 2013",14.99,90.0,2013.0
+772,76561197963596100,227780,Serious Sam Classics: Revolution,0,"['Action', 'Indie']","Aug 30, 2019",9.99,81.0,2019.0
+773,76561197963596100,228200,Company of Heroes ,0,"['Action', 'Strategy']","Sep 11, 2006",19.99,93.0,2006.0
+774,76561197963596100,230230,Divinity: Original Sin (Classic),0,"['Adventure', 'Indie', 'RPG', 'Strategy']","Jun 30, 2014",19.99,87.0,2014.0
+775,76561197963596100,232910,TrackMania² Stadium,17701,"['Racing', 'Sports']","Jun 20, 2013",9.99,77.0,2013.0
+776,76561197963596100,233130,Shadow Warrior,0,"['Action', 'Adventure']","Sep 26, 2013",29.99,73.0,2013.0
+777,76561197963596100,233450,Prison Architect,757,"['Indie', 'Simulation', 'Strategy']","Oct 6, 2015",29.99,83.0,2015.0
+778,76561197963596100,234650,Shadowrun Returns,540,"['Adventure', 'Indie', 'RPG', 'Strategy']","Jul 25, 2013",14.99,76.0,2013.0
+779,76561197963596100,235250,Super Sanctum TD,182,"['Casual', 'Indie', 'Strategy']","May 9, 2013",4.99,79.0,2013.0
+780,76561197963596100,235460,METAL GEAR RISING: REVENGEANCE,100,['Action'],"Jan 9, 2014",29.99,83.0,2014.0
+781,76561197963596100,236870,HITMAN™,11,['Action'],"Mar 11, 2016",19.99,84.0,2016.0
+782,76561197963596100,237630,DuckTales Remastered,173,"['Action', 'Adventure', 'Casual']","Aug 13, 2013",14.99,66.0,2013.0
+783,76561197963596100,237930,Transistor,126,"['Action', 'Indie', 'RPG']","20 May, 2014",25.99,83.0,2014.0
+784,76561197963596100,238320,Outlast,160,"['Action', 'Adventure', 'Indie']","4 Sep, 2013",7.99,80.0,2013.0
+785,76561197963596100,239200,Amnesia: A Machine for Pigs,483,"['Action', 'Adventure', 'Indie']","Sep 10, 2013",19.99,72.0,2013.0
+786,76561197963596100,239350,Spelunky,459,['Indie'],"Aug 8, 2013",14.99,90.0,2013.0
+787,76561197963596100,241600,Rogue Legacy,178,"['Action', 'Adventure', 'Indie', 'RPG']","27 Jun, 2013",67.99,85.0,2013.0
+788,76561197963596100,242700,Injustice: Gods Among Us Ultimate Edition,0,['Action'],"Nov 12, 2013",2.99,79.0,2013.0
+789,76561197963596100,242760,The Forest,33,"['Action', 'Adventure', 'Indie', 'Simulation']","Apr 30, 2018",19.99,83.0,2018.0
+790,76561197963596100,246580,The Typing of The Dead: Overkill,429,['Action'],"Oct 29, 2013",19.99,79.0,2013.0
+791,76561197963596100,248820,Risk of Rain (2013),154,"['Action', 'Indie', 'RPG']","Nov 8, 2013",9.99,77.0,2013.0
+792,76561197963596100,249130,LEGO® MARVEL Super Heroes,670,"['Action', 'Adventure']","Oct 22, 2013",19.99,78.0,2013.0
+793,76561197963596100,250700,Super Time Force Ultra,90,"['Action', 'Indie']","Aug 25, 2014",14.99,80.0,2014.0
+794,76561197963596100,252950,Rocket League,1122,"['Action', 'Indie', 'Racing', 'Sports']","Jul 6, 2015",19.99,86.0,2015.0
+795,76561197963596100,255520,Viscera Cleanup Detail: Shadow Warrior,0,"['Indie', 'Simulation']","Oct 11, 2013",14.99,79.0,2013.0
+796,76561197963596100,256290,Child of Light,199,['RPG'],"Apr 29, 2014",14.99,77.0,2014.0
+797,76561197963596100,256460,Cosmic Star Heroine,1,"['Indie', 'RPG']","Apr 11, 2017",14.99,77.0,2017.0
+798,76561197963596100,257510,The Talos Principle,250,"['Action', 'Adventure', 'Indie']","Dec 11, 2014",29.99,85.0,2014.0
+799,76561197963596100,257850,Hyper Light Drifter,167,"['Action', 'Adventure', 'Indie', 'RPG']","Mar 31, 2016",19.99,84.0,2016.0
+800,76561197963596100,258970,Gauntlet™ ,249,"['Action', 'Adventure', 'RPG']","Sep 23, 2014",19.99,80.5,2014.0
+801,76561197963596100,261030,The Walking Dead: Season Two,588,['Adventure'],"Dec 17, 2013",3.74,80.0,2013.0
+802,76561197963596100,268050,The Evil Within,1546,['Action'],"13 Oct, 2014",11.99,68.0,2014.0
+803,76561197963596100,268500,XCOM 2,0,['Strategy'],"Feb 4, 2016",59.99,88.0,2016.0
+804,76561197963596100,268910,Cuphead,88,"['Action', 'Indie']","29 Sep, 2017",21.99,88.0,2017.0
+805,76561197963596100,270450,Robot Roller-Derby Disco Dodgeball,283,"['Action', 'Indie', 'Sports']","Feb 19, 2015",9.99,86.0,2015.0
+806,76561197963596100,271590,Grand Theft Auto V Legacy,3264,"['Action', 'Adventure']","Apr 13, 2015",19.99,96.0,2015.0
+807,76561197963596100,272890,Vertiginous Golf,24,"['Indie', 'Sports']","May 6, 2015",1.49,63.0,2015.0
+808,76561197963596100,274520,Darkwood,6,"['Action', 'Adventure', 'RPG', 'Strategy']","Aug 17, 2017",14.99,80.0,2017.0
+809,76561197963596100,275850,No Man's Sky,319,"['Action', 'Adventure']","Aug 12, 2016",59.99,61.0,2016.0
+810,76561197963596100,286160,Tabletop Simulator,304,"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']","Jun 5, 2015",9.99,86.0,2015.0
+811,76561197963596100,287390,Metro: Last Light Redux,716,['Action'],"Aug 25, 2014",19.99,76.0,2014.0
+812,76561197963596100,287700,METAL GEAR SOLID V: THE PHANTOM PAIN,3175,"['Action', 'Adventure']","1 Sep, 2015",19.99,91.0,2015.0
+813,76561197963596100,288160,The Room,104,"['Adventure', 'Indie']","Jul 28, 2014",4.99,73.0,2014.0
+814,76561197963596100,291650,Pillars of Eternity,2228,['RPG'],"Mar 26, 2015",39.99,89.0,2015.0
+816,76561197963596100,292140,FINAL FANTASY XIII-2,1381,['RPG'],"Dec 11, 2014",7.99,80.5,2014.0
+817,76561197963596100,292380,Racer 8,0,"['Casual', 'Racing']","Jun 6, 2014",4.99,80.5,2014.0
+818,76561197963596100,294100,RimWorld,4897,"['Indie', 'Simulation', 'Strategy']","Oct 17, 2018",34.99,87.0,2018.0
+819,76561197963596100,294860,Valkyria Chronicles™,178,"['Action', 'RPG', 'Strategy']","Nov 11, 2014",19.99,80.5,2014.0
+820,76561197963596100,295110,Just Survive,6650,"['Action', 'Adventure', 'Massively Multiplayer']","Jan 15, 2015",19.99,86.0,2015.0
+821,76561197963596100,300550,Shadowrun: Dragonfall - Director's Cut,360,"['Adventure', 'Indie', 'RPG', 'Strategy']","Sep 18, 2014",14.99,87.0,2014.0
+822,76561197963596100,304240,Resident Evil,1908,"['Action', 'Adventure']","Jan 19, 2015",19.99,82.0,2015.0
+823,76561197963596100,305620,The Long Dark,567,"['Adventure', 'Indie', 'Simulation', 'Strategy']","Aug 1, 2017",19.99,82.0,2017.0
+824,76561197963596100,308040,Back to Bed,0,"['Action', 'Casual', 'Indie']","Aug 6, 2014",1.19,80.5,2014.0
+825,76561197963596100,311340,METAL GEAR SOLID V: GROUND ZEROES,17,"['Action', 'Adventure']","Dec 18, 2014",19.99,80.0,2014.0
+826,76561197963596100,319630,Life is Strange™,4305,"['Action', 'Adventure']","Jan 29, 2015",19.99,86.0,2015.0
+827,76561197963596100,330830,Tales from the Borderlands,1376,['Adventure'],"Feb 16, 2021",19.99,84.0,2021.0
+828,76561197963596100,331600,ONE PIECE PIRATE WARRIORS 3,350,['Action'],"Aug 27, 2015",5.19,86.0,2015.0
+829,76561197963596100,335300,DARK SOULS™ II: Scholar of the First Sin,1122,"['Action', 'RPG']","Apr 1, 2015",39.99,79.0,2015.0
+830,76561197963596100,337000,Deus Ex: Mankind Divided™,1417,"['Action', 'RPG']","Aug 23, 2016",29.99,83.0,2016.0
+831,76561197963596100,339340,Resident Evil 0,1038,"['Action', 'Adventure']","Jan 19, 2016",19.99,84.0,2016.0
+832,76561197963596100,346940,Shadowrun: Hong Kong - Extended Edition,0,"['Adventure', 'Indie', 'RPG', 'Strategy']","Aug 20, 2015",19.99,81.0,2015.0
+833,76561197963596100,348250,Google Earth VR,89,"['Adventure', 'Casual', 'Free To Play', 'Simulation']","Nov 16, 2016",19.99,84.0,2016.0
+834,76561197963596100,351970,Tales of Zestiria,3213,['RPG'],"Oct 19, 2015",4.99,77.0,2015.0
+835,76561197963596100,358090,D4: Dark Dreams Don't Die,20,"['Adventure', 'Casual', 'Indie']","Jun 5, 2015",14.99,86.0,2015.0
+836,76561197963596100,362300,Just Survive Test Server,0,['Massively Multiplayer'],"Apr 16, 2015",19.99,86.0,2015.0
+837,76561197963596100,367500,Dragon's Dogma: Dark Arisen,847,"['Action', 'Adventure', 'RPG']","Jan 15, 2016",29.99,81.0,2016.0
+838,76561197963596100,372360,Tales of Symphonia,833,['RPG'],"Feb 1, 2016",4.99,84.0,2016.0
+839,76561197963596100,373420,Divinity: Original Sin Enhanced Edition,3267,"['Adventure', 'Indie', 'RPG', 'Strategy']","Oct 27, 2015",39.99,94.0,2015.0
+840,76561197963596100,374320,DARK SOULS™ III,2530,['Action'],"Apr 11, 2016",59.99,89.0,2016.0
+841,76561197963596100,379720,DOOM,650,['Action'],"May 12, 2016",19.99,85.0,2016.0
+842,76561197963596100,391720,Layers of Fear (2016),1521,"['Adventure', 'Indie']","Feb 15, 2016",19.99,73.0,2016.0
+843,76561197963596100,392110,ENDLESS™ Space 2,2021,['Strategy'],"May 18, 2017",9.99,80.0,2017.0
+844,76561197963596100,395200,Ben and Ed,765,"['Action', 'Adventure', 'Indie']","Dec 8, 2015",9.99,86.0,2015.0
+845,76561197963596100,397460,The Jackbox Party Pack 2,278,"['Casual', 'Indie', 'Strategy']","Oct 13, 2015",24.99,86.0,2015.0
+846,76561197963596100,397950,Clustertruck,111,"['Action', 'Indie']","Sep 27, 2016",14.99,76.0,2016.0
+847,76561197963596100,412020,Metro Exodus,1793,['Action'],"Feb 14, 2020",29.99,85.0,2020.0
+848,76561197963596100,413150,Stardew Valley,72,"['Indie', 'RPG', 'Simulation']","Feb 26, 2016",14.99,89.0,2016.0
+849,76561197963596100,418240,Shadow Tactics: Blades of the Shogun,526,"['Indie', 'Strategy']","6 Dec, 2016",4.99,85.0,2016.0
+850,76561197963596100,418370,Resident Evil 7 Biohazard,1296,"['Action', 'Adventure']","23 Jan, 2017",19.99,83.0,2017.0
+851,76561197963596100,420290,Blackwake,398,"['Action', 'Casual', 'Indie', 'Strategy', 'Free To Play']","Feb 19, 2020",19.99,85.5,2020.0
+852,76561197963596100,424840,Little Nightmares,200,['Adventure'],"27 Apr, 2017",84.9,81.0,2017.0
+853,76561197963596100,425580,The Room Two,0,"['Adventure', 'Indie']","Jul 5, 2016",4.99,84.0,2016.0
+854,76561197963596100,429660,Tales of Berseria,2619,"['Action', 'RPG']","Jan 26, 2017",49.99,80.0,2017.0
+855,76561197963596100,431240,Golf With Your Friends,421,"['Casual', 'Indie', 'Sports']","May 19, 2020",7.19,85.5,2020.0
+856,76561197963596100,433850,Z1 Battle Royale,14856,"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer']","Feb 28, 2018",19.99,70.0,2018.0
+857,76561197963596100,434170,The Jackbox Party Pack 3,1825,"['Casual', 'Indie', 'Strategy']","Oct 17, 2016",24.99,84.0,2016.0
+858,76561197963596100,435150,Divinity: Original Sin 2,4269,"['Adventure', 'RPG', 'Strategy']","Sep 14, 2017",44.99,93.0,2017.0
+859,76561197963596100,438100,VRChat,86,"['Adventure', 'Casual', 'Massively Multiplayer', 'Simulation', 'Sports', 'Free To Play', 'Early Access']","Feb 1, 2017",19.99,82.0,2017.0
+860,76561197963596100,438740,Friday the 13th: The Game,1010,['Action'],"May 25, 2017",19.99,61.0,2017.0
+861,76561197963596100,439700,H1Z1: Test Server,0,['Massively Multiplayer'],"Feb 24, 2016",19.99,84.0,2016.0
+862,76561197963596100,450390,The Lab,7,['Free To Play'],"Apr 5, 2016",19.99,84.0,2016.0
+863,76561197963596100,457550,Bigscreen Beta,10,"['Action', 'Free To Play', 'Simulation']","Apr 28, 2016",19.99,84.0,2016.0
+864,76561197963596100,462780,Darksiders Warmastered Edition,0,"['Action', 'Adventure', 'RPG']","Nov 29, 2016",4.99,84.0,2016.0
+865,76561197963596100,466300,Planescape: Torment: Enhanced Edition,2018,"['Adventure', 'RPG']","Apr 11, 2017",19.99,85.0,2017.0
+866,76561197963596100,466560,Northgard: Definitive Edition,94,"['Adventure', 'Indie', 'Simulation', 'Strategy']","Mar 7, 2018",13.99,81.0,2018.0
+867,76561197963596100,471710,Rec Room,42,"['Adventure', 'Casual', 'Massively Multiplayer', 'Free To Play']","Sep 2, 2021",22.79,84.0,2021.0
+868,76561197963596100,477740,Zero Escape: The Nonary Games,238,['Adventure'],"24 Mar, 2017",6.79,86.0,2017.0
+869,76561197963596100,489830,The Elder Scrolls V: Skyrim Special Edition,970,['RPG'],"Oct 27, 2016",39.99,74.0,2016.0
+870,76561197963596100,493340,Planet Coaster,331,"['Action', 'Adventure', 'Casual', 'Simulation', 'Strategy']","Nov 17, 2016",44.99,84.0,2016.0
+871,76561197963596100,494150,The Thrill of the Fight,4008,"['Action', 'Sports']","Oct 24, 2019",9.99,81.0,2019.0
+872,76561197963596100,523960,TENET,482,"['Action', 'Free To Play', 'Indie']","Aug 27, 2018",19.99,85.0,2018.0
+873,76561197963596100,524220,NieR:Automata™,2466,"['Action', 'RPG']","17 Mar, 2017",21.4,84.0,2017.0
+874,76561197963596100,532210,Life is Strange 2,527,['Adventure'],"Sep 26, 2018",19.99,85.0,2018.0
+875,76561197963596100,546560,Half-Life: Alyx,877,"['Action', 'Adventure']","23 Mar, 2020",23.39,93.0,2020.0
+876,76561197963596100,554620,Life is Strange: Before the Storm,909,"['Action', 'Adventure']","Aug 31, 2017",16.99,77.0,2017.0
+877,76561197963596100,555160,Pavlov VR,203,"['Action', 'Indie']","Dec 4, 2024",24.99,88.5,2024.0
+878,76561197963596100,578080,PUBG: BATTLEGROUNDS,23342,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']","Dec 21, 2017",19.99,82.0,2017.0
+879,76561197963596100,583930,Faerie Solitaire Remastered,0,['Casual'],"Dec 22, 2017",14.99,82.0,2017.0
+880,76561197963596100,583950,Artifact Classic,712,['Strategy'],"Nov 28, 2018",19.99,76.0,2018.0
+881,76561197963596100,587430,I Expect You To Die,96,['Adventure'],"Apr 25, 2017",12.49,77.0,2017.0
+882,76561197963596100,589360,Ni no Kuni™ II: Revenant Kingdom,2877,"['Adventure', 'RPG']","Mar 23, 2018",11.99,81.0,2018.0
+883,76561197963596100,594570,Total War: WARHAMMER II,199,"['Action', 'Strategy']","Sep 28, 2017",59.99,87.0,2017.0
+884,76561197963596100,601430,The Evil Within 2,0,"['Action', 'Adventure']","Oct 12, 2017",39.99,80.0,2017.0
+885,76561197963596100,601510,Yu-Gi-Oh! Duel Links,8,"['Strategy', 'Free To Play']","Nov 16, 2017",19.99,82.0,2017.0
+886,76561197963596100,601840,Griftlands,155,['Indie'],"1 Jun, 2021",22.79,84.0,2021.0
+887,76561197963596100,617830,SUPERHOT VR,199,"['Action', 'Indie']","May 25, 2017",24.99,83.0,2017.0
+888,76561197963596100,620980,Beat Saber,113,['Indie'],"May 21, 2019",29.99,93.0,2019.0
+889,76561197963596100,621060,PC Building Simulator,285,"['Indie', 'Simulation']","Jan 29, 2019",19.99,81.0,2019.0
+890,76561197963596100,636450,Rez Infinite,0,"['Action', 'Casual', 'Indie']","Aug 9, 2017",24.99,89.0,2017.0
+891,76561197963596100,637650,FINAL FANTASY XV WINDOWS EDITION,2224,['RPG'],"Mar 6, 2018",13.99,85.0,2018.0
+892,76561197963596100,638970,Yakuza 0,2148,"['Action', 'Adventure', 'RPG']","Aug 1, 2018",19.99,86.0,2018.0
+893,76561197963596100,641960,BOXVR,85,"['Action', 'Casual', 'Indie', 'Sports']","May 21, 2019",29.99,81.0,2019.0
+894,76561197963596100,646570,Slay the Spire,4520,"['Indie', 'Strategy']","23 Jan, 2019",7.99,89.0,2019.0
+895,76561197963596100,671860,BattleBit Remastered,481,"['Action', 'Massively Multiplayer', 'Early Access']","Jun 15, 2023",14.99,83.0,2023.0
+896,76561197963596100,678950,DRAGON BALL FighterZ,638,['Action'],"Jan 26, 2018",14.39,85.0,2018.0
+897,76561197963596100,703080,Planet Zoo,261,"['Casual', 'Simulation', 'Strategy']","Nov 5, 2019",44.99,81.0,2019.0
+898,76561197963596100,719040,Wasteland 3,2147,"['RPG', 'Strategy']","Aug 27, 2020",11.99,85.0,2020.0
+899,76561197963596100,720250,Welcome to the Game II,2428,"['Indie', 'Simulation', 'Strategy']","Apr 3, 2018",9.99,85.0,2018.0
+900,76561197963596100,721090,SKYBOX VR Video Player,315,['Video Production'],"Oct 24, 2017",9.99,82.0,2017.0
+901,76561197963596100,722180,SURV1V3,84,"['Action', 'Adventure', 'Indie', 'Simulation']","Jun 20, 2021",24.99,84.0,2021.0
+902,76561197963596100,729040,Borderlands GOTY Enhanced,0,"['Action', 'RPG']","Aug 31, 2023",29.99,83.0,2023.0
+903,76561197963596100,739630,Phasmophobia,2231,"['Action', 'Indie', 'Early Access']","Sep 18, 2020",13.99,85.5,2020.0
+904,76561197963596100,741430,Titanic VR,95,"['Action', 'Simulation']","Aug 16, 2018",19.99,85.0,2018.0
+905,76561197963596100,742120,DRAGON QUEST® XI: Echoes of an Elusive Age™,5593,['RPG'],"Sep 4, 2018",19.99,85.0,2018.0
+906,76561197963596100,746850,Cloudpunk,157,"['Adventure', 'Indie', 'RPG']","Apr 23, 2020",19.99,73.0,2020.0
+907,76561197963596100,752590,A Plague Tale: Innocence,1254,"['Action', 'Adventure']","14 May, 2019",54.99,81.0,2019.0
+908,76561197963596100,782330,DOOM Eternal,2174,['Action'],"Mar 19, 2020",39.99,88.0,2020.0
+909,76561197963596100,787480,Phoenix Wright: Ace Attorney Trilogy,49,['Adventure'],"Apr 9, 2019",29.99,80.0,2019.0
+910,76561197963596100,814000,ONE PIECE ODYSSEY,2733,"['Action', 'Adventure', 'Casual', 'RPG']","Jan 12, 2023",23.99,77.0,2023.0
+911,76561197963596100,814380,Sekiro™: Shadows Die Twice,1955,"['Action', 'Adventure']","21 Mar, 2019",79.99,88.0,2019.0
+912,76561197963596100,823500,BONEWORKS,333,"['Action', 'Adventure', 'Indie', 'Simulation']","Dec 10, 2019",29.99,72.0,2019.0
+913,76561197963596100,834530,Yakuza Kiwami (Legacy),1038,"['Action', 'Adventure', 'RPG']","19 Feb, 2019",29.99,80.0,2019.0
+914,76561197963596100,845070,The Awesome Adventures of Captain Spirit,81,"['Adventure', 'Free To Play']","Jun 25, 2018",19.99,79.0,2018.0
+915,76561197963596100,858260,Until You Fall,12,"['Action', 'Adventure', 'Indie']","Oct 27, 2020",11.24,87.0,2020.0
+916,76561197963596100,868980,DEEP SPACE WAIFU: NEKOMIMI,0,"['Action', 'Casual', 'Indie']","Dec 18, 2018",19.99,85.0,2018.0
+917,76561197963596100,870780,Control Ultimate Edition,1140,"['Action', 'Adventure']","Aug 27, 2020",39.99,85.0,2020.0
+918,76561197963596100,883710,Resident Evil 2,2023,['Action'],"24 Jan, 2019",39.99,89.0,2019.0
+919,76561197963596100,885000,Synth Riders,113,"['Action', 'Casual', 'Indie']","Oct 31, 2019",24.99,83.0,2019.0
+920,76561197963596100,886250,Vegas Infinite by PokerStars,249,"['Casual', 'Strategy', 'Free To Play']","Nov 10, 2023",29.99,83.0,2023.0
+921,76561197963596100,893180,Catherine Classic,150,['Adventure'],"Jan 10, 2019",19.99,80.0,2019.0
+922,76561197963596100,921570,OCTOPATH TRAVELER,4373,['RPG'],"Jun 7, 2019",23.99,80.0,2019.0
+923,76561197963596100,927380,Yakuza Kiwami 2 (Legacy),2925,"['Action', 'Adventure', 'RPG']","May 9, 2019",29.99,82.0,2019.0
+924,76561197963596100,939850,The Dark Pictures Anthology: Man of Medan,372,['Adventure'],"Aug 29, 2019",19.99,75.0,2019.0
+925,76561197963596100,945360,Among Us,432,['Casual'],"16 Nov, 2018",19.99,85.0,2018.0
+926,76561197963596100,976730,Halo: The Master Chief Collection,9749,['Action'],"Dec 3, 2019",39.99,81.0,2019.0
+927,76561197963596100,990080,Hogwarts Legacy,2305,"['Action', 'Adventure', 'RPG']","Feb 10, 2023",59.99,83.0,2023.0
+928,76561197963596100,1046930,Dota Underlords,138,"['Casual', 'Strategy', 'Free To Play']","Jun 20, 2019",29.99,81.0,2019.0
+929,76561197963596100,1086940,Baldur's Gate 3,2321,"['Adventure', 'RPG', 'Strategy']","Aug 3, 2023",59.99,96.0,2023.0
+930,76561197963596100,1088710,Yakuza 3 Remastered,2034,"['Action', 'Adventure']","Jan 28, 2021",19.99,84.0,2021.0
+931,76561197963596100,1091500,Cyberpunk 2077,4459,['RPG'],"Dec 9, 2020",59.99,86.0,2020.0
+932,76561197963596100,1097150,Fall Guys,286,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Sports']","3 Aug, 2020",19.99,80.0,2020.0
+933,76561197963596100,1105500,Yakuza 4 Remastered,3361,"['Action', 'Adventure']","Jan 28, 2021",19.99,84.0,2021.0
+934,76561197963596100,1105510,Yakuza 5 Remastered,3457,"['Action', 'Adventure']","Jan 28, 2021",19.99,84.0,2021.0
+935,76561197963596100,1113000,Persona 4 Golden,4516,['RPG'],"Jun 13, 2020",19.99,87.0,2020.0
+936,76561197963596100,1113560,NieR Replicant ver.1.22474487139...,1530,"['Action', 'Adventure', 'RPG']","Apr 23, 2021",23.99,84.0,2021.0
+937,76561197963596100,1133760,CHRONO CROSS: THE RADICAL DREAMERS EDITION,716,"['Adventure', 'RPG']","Apr 7, 2022",7.99,86.0,2022.0
+938,76561197963596100,1142710,Total War: WARHAMMER III,0,"['Action', 'Strategy']","Feb 16, 2022",59.99,86.0,2022.0
+939,76561197963596100,1172380,STAR WARS Jedi: Fallen Order™ ,1218,"['Action', 'Adventure']","Nov 14, 2019",3.19,81.0,2019.0
+940,76561197963596100,1174180,Red Dead Redemption 2,3809,"['Action', 'Adventure']","5 Dec, 2019",29.99,93.0,2019.0
+941,76561197963596100,1190460,DEATH STRANDING,2266,"['Action', 'Adventure']","Jul 14, 2020",19.99,86.0,2020.0
+942,76561197963596100,1194630,The Dark Pictures Anthology: Little Hope,299,['Adventure'],"Oct 29, 2020",19.99,85.5,2020.0
+943,76561197963596100,1196590,Resident Evil Village,1610,['Action'],"May 6, 2021",39.99,83.0,2021.0
+944,76561197963596100,1222140,Detroit: Become Human,0,"['Action', 'Adventure']","Jun 18, 2020",39.99,80.0,2020.0
+945,76561197963596100,1222730,STAR WARS™: Squadrons,34,"['Action', 'Simulation']","Oct 1, 2020",3.99,79.0,2020.0
+946,76561197963596100,1235140,Yakuza: Like a Dragon,6606,"['Action', 'Adventure', 'RPG']","Nov 10, 2020",19.99,83.0,2020.0
+947,76561197963596100,1236300,Resident Evil Re:Verse,0,['Action'],"Oct 20, 2022",44.99,86.0,2022.0
+948,76561197963596100,1237950,STAR WARS™ Battlefront™ II,456,"['Action', 'Adventure']","Jun 11, 2020",3.99,85.5,2020.0
+949,76561197963596100,1240440,Halo Infinite,370,"['Action', 'Free To Play']","Nov 15, 2021",22.79,84.0,2021.0
+950,76561197963596100,1245620,ELDEN RING,6496,"['Action', 'RPG']","Feb 24, 2022",59.99,94.0,2022.0
+951,76561197963596100,1248130,Farming Simulator 22,284,['Simulation'],"21 Nov, 2021",22.79,84.0,2021.0
+952,76561197963596100,1271100,Deadly Premonition 2,1810,"['Action', 'Adventure']","Jun 11, 2022",39.99,86.0,2022.0
+953,76561197963596100,1281590,The Dark Pictures Anthology: House of Ashes,329,['Adventure'],"Oct 21, 2021",29.99,84.0,2021.0
+954,76561197963596100,1284210,Guild Wars 2®,7,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']","Aug 23, 2022",44.99,90.0,2022.0
+955,76561197963596100,1388590,Yakuza 6: The Song of Life,2486,"['Action', 'Adventure']","25 Mar, 2021",89.0,84.0,2021.0
+957,76561197963596100,1449110,The Outer Worlds 2,3048,"['Action', 'Adventure', 'RPG']","29 Oct, 2025",89.99,87.0,2025.0
+958,76561197963596100,1462040,FINAL FANTASY VII REMAKE INTERGRADE,2637,"['Action', 'Adventure', 'RPG']","17 Jun, 2022",79.5,86.0,2022.0
+959,76561197963596100,1593500,God of War,1543,"['Action', 'Adventure', 'RPG']","Jan 14, 2022",44.99,86.0,2022.0
+960,76561197963596100,1599340,Lost Ark,13617,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']","Feb 11, 2022",44.99,86.0,2022.0
+961,76561197963596100,1687950,Persona 5 Royal,7929,['RPG'],"20 Oct, 2022",79.99,95.0,2022.0
+962,76561197963596100,1716740,Starfield,1274,['RPG'],"5 Sep, 2023",89.99,83.0,2023.0
+963,76561197963596100,1782210,Crab Game,177,"['Action', 'Casual', 'Free To Play', 'Indie', 'Racing']","Oct 29, 2021",22.79,84.0,2021.0
+964,76561197963596100,1794680,Vampire Survivors,65,"['Action', 'Casual', 'Indie', 'RPG']","Oct 20, 2022",4.99,86.0,2022.0
+965,76561197963596100,1943950,Escape the Backrooms,171,"['Action', 'Indie']","23 Oct, 2025",26.99,87.0,2025.0
+966,76561197963596100,1944430,Amnesia: The Bunker,160,"['Action', 'Adventure', 'Indie']","6 Jun, 2023",57.49,83.0,2023.0
+967,76561197963596100,2058180,Judgment,4411,"['Action', 'Adventure']","14 Sep, 2022",49.99,86.0,2022.0
+968,76561197963596100,2058190,Lost Judgment,6619,"['Action', 'Adventure']","14 Sep, 2022",74.99,86.0,2022.0
+969,76561197963596100,2072450,Like a Dragon: Infinite Wealth,5997,"['Action', 'Adventure', 'RPG']","25 Jan, 2024",31.740000000000002,89.0,2024.0
+970,76561197963596100,2124490,SILENT HILL 2,2078,"['Action', 'Adventure']","7 Oct, 2024",31.740000000000002,88.5,2024.0
+971,76561197963596100,2362420,Mass Effect 2 (2010) Edition,0,['RPG'],"May 15, 2023",29.99,83.0,2023.0
+972,76561197963596100,2375550,Like a Dragon Gaiden: The Man Who Erased His Name,2392,"['Action', 'Adventure']","8 Nov, 2023",64.99,83.0,2023.0
+973,76561197963596100,2515020,FINAL FANTASY XVI,4576,"['Action', 'RPG']","17 Sep, 2024",33.49,88.5,2024.0
+974,76561197963596100,2552450,KINGDOM HEARTS III + Re Mind (DLC),0,"['Action', 'Adventure', 'RPG']","13 Jun, 2024",31.740000000000002,88.5,2024.0
+975,76561197963596100,2592160,Dispatch,966,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']","22 Oct, 2025",38.99,87.0,2025.0
+976,76561197963596100,2677660,Indiana Jones and the Great Circle,2388,"['Action', 'Adventure']","8 Dec, 2024",31.740000000000002,87.0,2024.0
+977,76561197963596100,2701660,DRAGON QUEST III HD-2D Remake,4010,['RPG'],"14 Nov, 2024",31.740000000000002,88.5,2024.0
+978,76561197963596100,2947440,SILENT HILL f,1312,"['Action', 'Adventure']","24 Sep, 2025",80.09,87.0,2025.0
+979,76561197963596100,3017860,DOOM: The Dark Ages,1429,['Action'],"May 14, 2025",69.99,87.0,2025.0
+980,76561197963596100,3240220,Grand Theft Auto V Enhanced,0,"['Action', 'Adventure', 'Racing']","4 Mar, 2025",42.99,87.0,2025.0
+981,76561197963596100,3241660,R.E.P.O.,298,"['Action', 'Early Access']","26 Feb, 2025",42.99,87.0,2025.0
+982,76561197963596100,3450310,Europa Universalis V,727,['Strategy'],"Nov 4, 2025",59.99,87.0,2025.0
+984,76561199210350203,730,Counter-Strike 2,16635,"['Action', 'Free To Play']","Aug 21, 2012",14.99,81.0,2012.0
+985,76561199210350203,739630,Phasmophobia,724,"['Action', 'Indie', 'Early Access']","18 Sep, 2020",19.99,85.5,2020.0
+986,76561199210350203,990080,Hogwarts Legacy,2381,"['Action', 'Adventure', 'RPG']","Feb 10, 2023",59.99,83.0,2023.0
+987,76561199210350203,1145360,Hades,132,"['Action', 'Indie', 'RPG']","17 Sep, 2020",19.99,93.0,2020.0
+988,76561199210350203,1172470,Apex Legends,9307,"['Action', 'Adventure', 'Free To Play']","Nov 4, 2020",19.99,85.5,2020.0
+989,76561199210350203,1240440,Halo Infinite,2212,"['Action', 'Free To Play']","15 Nov, 2021",22.79,84.0,2021.0
+990,76561199210350203,1426210,It Takes Two,1041,"['Action', 'Adventure']","25 Mar, 2021",22.79,89.0,2021.0
+991,76561199210350203,1599340,Lost Ark,26681,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']","Feb 11, 2022",44.99,86.0,2022.0
+992,76561199210350203,1623730,Palworld,2912,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']","18 Jan, 2024",38.99,88.5,2024.0
+993,76561199210350203,2215430,Ghost of Tsushima DIRECTOR'S CUT,1527,"['Action', 'Adventure']","16 May, 2024",79.99,88.5,2024.0
+994,76561199210350203,2352620,Fellowship,1261,"['RPG', 'Early Access']","Oct 16, 2025",24.99,87.0,2025.0
+995,76561199210350203,2767030,Marvel Rivals,1713,"['Action', 'Free To Play']","5 Dec, 2024",31.740000000000002,88.5,2024.0
+996,76561199210350203,3241660,R.E.P.O.,2113,"['Action', 'Early Access']","26 Feb, 2025",42.99,87.0,2025.0
+997,76561199210350203,3405340,Megabonk,3933,"['Action', 'Casual', 'Indie']","18 Sep, 2025",42.99,87.0,2025.0
+998,76561197960288695,30,Day of Defeat,0,['Action'],"May 1, 2003",4.99,79.0,2003.0
+999,76561197960288695,40,Deathmatch Classic,0,['Action'],"Jun 1, 2001",4.99,71.0,2001.0
+1002,76561197960288695,80,Counter-Strike: Condition Zero,0,['Action'],"1 Mar, 2004",9.99,65.0,2004.0
+1003,76561197960288695,130,Half-Life: Blue Shift,0,['Action'],"Jun 1, 2001",4.99,71.0,2001.0
+1004,76561197960288695,240,Counter-Strike: Source,0,['Action'],"Nov 1, 2004",9.99,88.0,2004.0
+1005,76561197960288695,300,Day of Defeat: Source,0,['Action'],"Jul 12, 2010",14.99,84.0,2010.0
+1006,76561197960288695,550,Left 4 Dead 2,0,['Action'],"Nov 16, 2009",9.99,89.0,2009.0
+1007,76561197960288695,570,Dota 2,0,"['Action', 'Strategy', 'Free To Play']","Jul 9, 2013",14.99,79.0,2013.0
+1008,76561197960288695,620,Portal 2,0,"['Action', 'Adventure']","Apr 18, 2011",9.99,84.0,2011.0
+1009,76561197960288695,730,Counter-Strike 2,0,"['Action', 'Free To Play']","Aug 21, 2012",14.99,81.0,2012.0
+1010,76561197960288695,4000,Garry's Mod,0,"['Casual', 'Indie', 'Simulation']","Nov 29, 2006",19.99,91.5,2006.0
+1011,76561197960288695,12100,Grand Theft Auto III,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+1012,76561197960288695,12110,Grand Theft Auto: Vice City,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+1013,76561197960288695,12120,Grand Theft Auto: San Andreas,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+1014,76561197960288695,12210,Grand Theft Auto IV: The Complete Edition,0,"['Action', 'Adventure']","Mar 24, 2020",19.99,85.5,2020.0
+1015,76561197960288695,12230,Grand Theft Auto III,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+1016,76561197960288695,12240,Grand Theft Auto: Vice City,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+1017,76561197960288695,12250,Grand Theft Auto: San Andreas,0,['Action'],"Jan 4, 2008",9.99,86.0,2008.0
+1018,76561197960288695,21000,LEGO® Batman™: The Videogame,0,"['Action', 'Adventure']","29 Sep, 2008",9.99,80.0,2008.0
+1019,76561197960288695,105600,Terraria,0,"['Action', 'Adventure', 'Indie', 'RPG']","May 16, 2011",9.99,84.0,2011.0
+1020,76561197960288695,206440,To the Moon,0,"['Adventure', 'Indie', 'RPG']","7 Sep, 2012",45.99,81.0,2012.0
+1021,76561197960288695,213330,LEGO® Batman™ 2: DC Super Heroes,0,"['Action', 'Adventure']","22 Jun, 2012",14.99,81.0,2012.0
+1022,76561197960288695,214510,LEGO® The Lord of the Rings™,0,"['Action', 'Adventure']","27 Nov, 2012",14.99,80.0,2012.0
+1023,76561197960288695,249130,LEGO® MARVEL Super Heroes,0,"['Action', 'Adventure']","Oct 22, 2013",14.99,79.0,2013.0
+1024,76561197960288695,251570,7 Days to Die,0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']","Jul 25, 2024",24.74,88.5,2024.0
+1025,76561197960288695,252490,Rust,0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Feb 8, 2018",19.99,85.0,2018.0
+1026,76561197960288695,261640,Borderlands: The Pre-Sequel,0,"['Action', 'RPG']","Oct 13, 2014",19.99,80.5,2014.0
+1027,76561197960288695,264710,Subnautica,0,"['Adventure', 'Indie']","Jan 23, 2018",19.99,85.0,2018.0
+1028,76561197960288695,271590,Grand Theft Auto V Legacy,0,"['Action', 'Adventure']","Apr 13, 2015",19.99,86.0,2015.0
+1029,76561197960288695,292030,The Witcher 3: Wild Hunt,0,['RPG'],"May 18, 2015",19.99,86.0,2015.0
+1030,76561197960288695,295110,Just Survive,0,"['Action', 'Adventure', 'Massively Multiplayer']","Jan 15, 2015",19.99,86.0,2015.0
+1031,76561197960288695,346110,ARK: Survival Evolved,0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Aug 27, 2017",19.99,82.0,2017.0
+1032,76561197960288695,362300,Just Survive Test Server,0,['Massively Multiplayer'],"Apr 16, 2015",19.99,86.0,2015.0
+1033,76561197960288695,387990,Scrap Mechanic,0,"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']","Jan 19, 2016",19.99,84.0,2016.0
+1034,76561197960288695,407530,ARK: Survival Of The Fittest,0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']","Aug 29, 2017",19.99,82.0,2017.0
+1035,76561197960288695,427520,Factorio,0,"['Casual', 'Indie', 'Simulation', 'Strategy']","Aug 14, 2020",35.0,90.0,2020.0
+1036,76561197960288695,431240,Golf With Your Friends,0,"['Casual', 'Indie', 'Sports']","May 19, 2020",19.99,85.5,2020.0
+1037,76561197960288695,433850,Z1 Battle Royale,0,"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer']","Feb 28, 2018",19.99,85.0,2018.0
+1038,76561197960288695,439700,H1Z1: Test Server,0,['Massively Multiplayer'],"Feb 24, 2016",19.99,84.0,2016.0
+1039,76561197960288695,518790,theHunter: Call of the Wild™,0,"['Adventure', 'Simulation', 'Sports']","Feb 16, 2017",19.99,82.0,2017.0
+1040,76561197960288695,552500,Warhammer: Vermintide 2,0,"['Action', 'Indie', 'RPG']","Mar 8, 2018",19.99,85.0,2018.0
+1041,76561197960288695,553850,HELLDIVERS™ 2,0,['Action'],"Feb 8, 2024",31.740000000000002,88.5,2024.0
+1042,76561197960288695,578080,PUBG: BATTLEGROUNDS,0,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']","21 Dec, 2017",19.99,82.0,2017.0
+1043,76561197960288695,582160,Assassin's Creed Origins,0,"['Action', 'Adventure', 'RPG']","26 Oct, 2017",19.99,82.0,2017.0
+1044,76561197960288695,648800,Raft,0,"['Adventure', 'Indie', 'Simulation']","Jun 20, 2022",44.99,86.0,2022.0
+1045,76561197960288695,671860,BattleBit Remastered,0,"['Action', 'Massively Multiplayer', 'Early Access']","Jun 15, 2023",29.99,83.0,2023.0
+1046,76561197960288695,739630,Phasmophobia,0,"['Action', 'Indie', 'Early Access']","18 Sep, 2020",19.99,85.5,2020.0
+1047,76561197960288695,753640,Outer Wilds,0,"['Action', 'Adventure']","18 Jun, 2020",32.99,85.0,2020.0
+1048,76561197960288695,848450,Subnautica: Below Zero,0,"['Adventure', 'Indie']","13 May, 2021",22.79,84.0,2021.0
+1049,76561197960288695,892970,Valheim,0,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']","Feb 2, 2021",9.99,84.0,2021.0
+1050,76561197960288695,920210,LEGO® Star Wars™: The Skywalker Saga,0,"['Action', 'Adventure']","Apr 5, 2022",49.99,78.0,2022.0
+1051,76561197960288695,924970,Back 4 Blood,0,['Action'],"12 Oct, 2021",22.79,77.0,2021.0
+1052,76561197960288695,945360,Among Us,0,['Casual'],"16 Nov, 2018",19.99,85.0,2018.0
+1053,76561197960288695,976730,Halo: The Master Chief Collection,0,['Action'],"3 Dec, 2019",29.99,81.0,2019.0
+1054,76561197960288695,990080,Hogwarts Legacy,0,"['Action', 'Adventure', 'RPG']","10 Feb, 2023",29.99,83.0,2023.0
+1055,76561197960288695,1091500,Cyberpunk 2077,0,['RPG'],"9 Dec, 2020",19.99,85.5,2020.0
+1056,76561197960288695,1097150,Fall Guys,0,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Sports']","3 Aug, 2020",19.99,85.5,2020.0
+1057,76561197960288695,1129580,Medieval Dynasty,0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']","Sep 23, 2021",17.49,73.0,2021.0
+1058,76561197960288695,1174180,Red Dead Redemption 2,0,"['Action', 'Adventure']","5 Dec, 2019",29.99,93.0,2019.0
+1059,76561197960288695,1203620,Enshrouded,0,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']","Jan 24, 2024",23.99,88.5,2024.0
+1060,76561197960288695,1240440,Halo Infinite,0,"['Action', 'Free To Play']","15 Nov, 2021",22.79,84.0,2021.0
+1061,76561197960288695,1282100,Remnant II,0,"['Action', 'Adventure', 'RPG']","Jul 25, 2023",12.49,83.0,2023.0
+1063,76561197960288695,1426210,It Takes Two,0,"['Action', 'Adventure']","25 Mar, 2021",22.79,89.0,2021.0
+1064,76561197960288695,1583230,High On Life,0,"['Action', 'Adventure']","Dec 13, 2022",39.99,86.0,2022.0
+1065,76561197960288695,1593500,God of War,0,"['Action', 'Adventure', 'RPG']","Jan 14, 2022",44.99,86.0,2022.0
+1066,76561197960288695,1681430,RoboCop: Rogue City,0,"['Action', 'Adventure']","2 Nov, 2023",29.99,76.0,2023.0
+1067,76561197960288695,1817070,Marvel’s Spider-Man Remastered,0,"['Action', 'Adventure', 'Casual']","Aug 12, 2022",59.99,86.0,2022.0
+1068,76561197960288695,1895880,Ratchet & Clank: Rift Apart,0,"['Action', 'Adventure']","26 Jul, 2023",29.99,83.0,2023.0
+1069,76561197960288695,1928980,Nightingale,0,"['Action', 'Adventure', 'RPG', 'Early Access']","20 Feb, 2024",38.99,88.5,2024.0
+1070,76561197960288695,1966720,Lethal Company,0,"['Action', 'Adventure', 'Indie', 'Early Access']","Oct 23, 2023",29.99,83.0,2023.0
+1071,76561197960288695,2001120,Split Fiction,0,"['Action', 'Adventure']","6 Mar, 2025",49.99,87.0,2025.0
+1072,76561197960288695,2080690,Sunkenland,0,"['Action', 'Indie', 'Early Access']","25 Aug, 2023",29.99,83.0,2023.0
+1073,76561197960288695,2322010,God of War Ragnarök,0,"['Action', 'Adventure', 'RPG']","Sep 19, 2024",59.99,90.0,2024.0
+1074,76561197960288695,2780980,LOCKDOWN Protocol,0,"['Action', 'Casual', 'Indie', 'Strategy']","18 Nov, 2025",45.99,87.0,2025.0
+1075,76561197960288695,2787320,Revenge of the Savage Planet,0,"['Action', 'Adventure']","8 May, 2025",42.99,87.0,2025.0
+1076,76561197960288695,3240220,Grand Theft Auto V Enhanced,0,"['Action', 'Adventure', 'Racing']","4 Mar, 2025",42.99,87.0,2025.0
+1077,76561197960288695,3241660,R.E.P.O.,0,"['Action', 'Early Access']","Feb 26, 2025",9.99,87.0,2025.0
+1078,76561197960288695,3949040,RV There Yet?,0,"['Action', 'Adventure', 'Indie']","21 Oct, 2025",42.99,87.0,2025.0
+1079,76561198155980883,730,Counter-Strike 2,737,"['Action', 'Free To Play']","Aug 21, 2012",14.99,81.0,2012.0
+1081,76561198155980883,72850,The Elder Scrolls V: Skyrim,4976,['RPG'],"Nov 10, 2011",9.99,84.0,2011.0
+1082,76561198155980883,218230,PlanetSide 2,3257,"['Action', 'Massively Multiplayer', 'Free To Play']","Nov 20, 2012",14.99,84.0,2012.0
+1083,76561198155980883,220200,Kerbal Space Program,469,"['Indie', 'Simulation']","Apr 27, 2015",39.99,88.0,2015.0
+1084,76561198155980883,242760,The Forest,1310,"['Action', 'Adventure', 'Indie', 'Simulation']","Apr 30, 2018",19.99,83.0,2018.0
+1085,76561198155980883,264710,Subnautica,2307,"['Adventure', 'Indie']","Jan 23, 2018",19.99,85.0,2018.0
+1086,76561198155980883,292030,The Witcher 3: Wild Hunt,3093,['RPG'],"May 18, 2015",39.99,93.0,2015.0
+1087,76561198155980883,346110,ARK: Survival Evolved,13581,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']","Aug 27, 2017",14.99,70.0,2017.0
+1088,76561198155980883,374320,DARK SOULS™ III,10228,['Action'],"11 Apr, 2016",19.99,89.0,2016.0
+1089,76561198155980883,379720,DOOM,973,['Action'],"May 12, 2016",19.99,84.0,2016.0
+1090,76561198155980883,407530,ARK: Survival Of The Fittest,17,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']","Aug 29, 2017",19.99,82.0,2017.0
+1091,76561198155980883,413150,Stardew Valley,1059,"['Indie', 'RPG', 'Simulation']","Feb 26, 2016",19.99,84.0,2016.0
+1092,76561198155980883,431960,Wallpaper Engine,215,"['Casual', 'Indie', 'Animation & Modeling', 'Design & Illustration', 'Photo Editing', 'Utilities']","16 Nov, 2018",19.99,85.0,2018.0
+1093,76561198155980883,546560,Half-Life: Alyx,566,"['Action', 'Adventure']","23 Mar, 2020",23.39,93.0,2020.0
+1094,76561198155980883,548430,Deep Rock Galactic,10265,['Action'],"May 13, 2020",19.99,85.5,2020.0
+1095,76561198155980883,553850,HELLDIVERS™ 2,24210,['Action'],"8 Feb, 2024",39.99,88.5,2024.0
+1096,76561198155980883,578080,PUBG: BATTLEGROUNDS,509,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']","21 Dec, 2017",19.99,82.0,2017.0
+1097,76561198155980883,601840,Griftlands,1380,['Indie'],"1 Jun, 2021",22.79,84.0,2021.0
+1098,76561198155980883,620980,Beat Saber,2158,['Indie'],"May 21, 2019",29.99,81.0,2019.0
+1099,76561198155980883,823500,BONEWORKS,654,"['Action', 'Adventure', 'Indie', 'Simulation']","10 Dec, 2019",38.99,72.0,2019.0
+1100,76561198155980883,892970,Valheim,5318,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']","Feb 2, 2021",9.99,84.0,2021.0
+1101,76561198155980883,920210,LEGO® Star Wars™: The Skywalker Saga,17,"['Action', 'Adventure']","Apr 5, 2022",49.99,78.0,2022.0
+1102,76561198155980883,945360,Among Us,109,['Casual'],"16 Nov, 2018",19.99,85.0,2018.0
+1103,76561198155980883,1086940,Baldur's Gate 3,13524,"['Adventure', 'RPG', 'Strategy']","Aug 3, 2023",29.99,83.0,2023.0
+1104,76561198155980883,1091500,Cyberpunk 2077,5963,['RPG'],"9 Dec, 2020",19.99,85.5,2020.0
+1105,76561198155980883,1124300,HUMANKIND™,350,['Strategy'],"17 Aug, 2021",39.8,84.0,2021.0
+1106,76561198155980883,1151640,Horizon Zero Dawn™ Complete Edition,608,"['Action', 'Adventure', 'RPG']","Aug 7, 2020",19.99,85.5,2020.0
+1107,76561198155980883,1172470,Apex Legends,6376,"['Action', 'Adventure', 'Free To Play']","Nov 4, 2020",19.99,85.5,2020.0
+1108,76561198155980883,1238840,Battlefield™ 1,101,"['Action', 'Massively Multiplayer']","11 Jun, 2020",19.99,85.5,2020.0
+1109,76561198155980883,1240440,Halo Infinite,1158,"['Action', 'Free To Play']","15 Nov, 2021",22.79,84.0,2021.0
+1110,76561198155980883,1245620,ELDEN RING,12336,"['Action', 'RPG']","Feb 24, 2022",59.99,94.0,2022.0
+1112,76561198155980883,1593500,God of War,2855,"['Action', 'Adventure', 'RPG']","Jan 14, 2022",49.99,93.0,2022.0
+1113,76561198155980883,1623730,Palworld,1016,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']","18 Jan, 2024",31.740000000000002,88.5,2024.0
+1114,76561198820105042,4760,Rome: Total War,773,['Strategy'],"Aug 28, 2007",9.99,88.5,2007.0
+1115,76561198820105042,20900,The Witcher: Enhanced Edition,8607,"['Action', 'RPG']","19 Sep, 2008",29.99,86.0,2008.0
+1116,76561198820105042,431960,Wallpaper Engine,227,"['Casual', 'Indie', 'Animation & Modeling', 'Design & Illustration', 'Photo Editing', 'Utilities']","16 Nov, 2018",19.99,85.0,2018.0
+1117,76561198820105042,489830,The Elder Scrolls V: Skyrim Special Edition,1616,['RPG'],"Oct 27, 2016",19.99,84.0,2016.0
+1118,76561198820105042,1286830,STAR WARS™: The Old Republic™,20,"['Massively Multiplayer', 'RPG', 'Free To Play']","Jul 21, 2020",19.99,85.5,2020.0
+1119,76561198820105042,2909400,FINAL FANTASY VII REBIRTH,368,"['Action', 'Adventure', 'RPG']","23 Jan, 2025",46.74,87.0,2025.0
+1120,76561198820105042,3241660,R.E.P.O.,208,"['Action', 'Early Access']","Feb 26, 2025",42.99,87.0,2025.0
+1121,76561198820105042,3564740,Where Winds Meet,421,"['Action', 'Adventure', 'RPG', 'Free To Play']","Nov 14, 2025",42.99,87.0,2025.0
