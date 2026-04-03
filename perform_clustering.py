@@ -74,9 +74,8 @@ for n_clusters in range_n_clusters:
     fig.set_size_inches(18, 7)
 
     # The 1st subplot is the silhouette plot
-    # The silhouette coefficient can range from -1, 1 but in this example all
-    # lie within [-0.1, 1]
     ax1.set_xlim([-0.1, 1])
+    
     # The (n_clusters+1)*10 is for inserting blank space between silhouette
     # plots of individual clusters, to demarcate them clearly.
     ax1.set_ylim([0, len(standardized_data) + (n_clusters + 1) * 10])
@@ -87,8 +86,6 @@ for n_clusters in range_n_clusters:
     cluster_labels = clusterer.fit_predict(standardized_data)
 
     # The silhouette_score gives the average value for all the samples.
-    # This gives a perspective into the density and separation of the formed
-    # clusters
     silhouette_avg = silhouette_score(standardized_data, cluster_labels)
     print(
         "For n_clusters =",
@@ -102,6 +99,7 @@ for n_clusters in range_n_clusters:
 
     y_lower = 10
     for i in range(n_clusters):
+        
         # Aggregate the silhouette scores for samples belonging to
         # cluster i, and sort them
         ith_cluster_silhouette_values = sample_silhouette_values[cluster_labels == i]
@@ -134,7 +132,7 @@ for n_clusters in range_n_clusters:
     # The vertical line for average silhouette score of all the values
     ax1.axvline(x=silhouette_avg, color="red", linestyle="--")
 
-    ax1.set_yticks([])  # Clear the yaxis labels / ticks
+    ax1.set_yticks([])  
     ax1.set_xticks([-0.1, 0, 0.2, 0.4, 0.6, 0.8, 1])
 
     # 2nd Plot showing the actual clusters formed
@@ -186,14 +184,13 @@ plt.show()
 
 
 kmeans_object_Count = sklearn.cluster.KMeans(n_clusters=2)
-#print(kmeans_object)
 kmeans_object_Count.fit(standardized_data)
+
 # Get cluster assignment labels
 labels = kmeans_object_Count.labels_
 prediction_kmeans = kmeans_object_Count.predict(standardized_data)
-#print(labels)
 print(prediction_kmeans)
-# Format results as a DataFrame
+
 
 
 
